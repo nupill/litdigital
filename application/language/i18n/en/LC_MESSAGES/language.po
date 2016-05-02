@@ -1,0 +1,4127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: biblio\n"
+"POT-Creation-Date: 2015-08-23 17:23-0300\n"
+"PO-Revision-Date: 2015-08-23 18:11-0300\n"
+"Last-Translator: Kozima <gukozima@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: application/template/error.php:3 application/template/error.php:13
+msgid "Erro"
+msgstr "Error"
+
+#: application/template/error.php:15
+msgid ""
+"Ocorreu um erro ao executar uma operação no servidor, por favor tente "
+"novamente mais tarde."
+msgstr ""
+
+#: application/template/error.php:16
+msgid "Caso este erro persista, contate o administrador."
+msgstr ""
+
+#: application/template/footer.php:2 application/template/header.php:1
+msgid "Literatura Digital"
+msgstr "Digital Literature"
+
+#: application/template/footer.php:6
+msgid "Núcleo de Pesquisas em Informática, Literatura e Lingüística"
+msgstr ""
+
+#: application/template/footer.php:7
+msgid "Laboratório de Pesquisas em Sistemas Distribuídos"
+msgstr ""
+
+#: application/template/footer.php:8
+msgid "Núcleo Literatura e Memória"
+msgstr ""
+
+#: application/template/footer.php:9
+msgid ""
+"Laboratório de Ensino, Pesquisa e Extensão em Biblioteconomia e Ciência da "
+"Informação"
+msgstr ""
+
+#: application/template/footer.php:10
+msgid "Universidade Federal de Santa Catarina"
+msgstr ""
+
+#: application/template/footer.php:11
+msgid "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+msgstr ""
+
+#: application/template/footer.php:12
+msgid ""
+"Fundação de Apoio à Pesquisa Científica e Tecnológica do Estado de Santa "
+"Catarina"
+msgstr ""
+
+#: application/template/forbidden.php:8
+msgid "Você precisa estar logado para acessar esta página"
+msgstr ""
+
+#: application/template/forbidden.php:9
+msgid "Sua sessão pode ter expirado. Faça o login novamente."
+msgstr ""
+
+#: application/template/forbidden.php:11 application/template/forbidden.php:21
+msgid "Ir para a página inicial"
+msgstr ""
+
+#: application/template/forbidden.php:19
+msgid "Você não possui autorização para acessar esta página"
+msgstr ""
+
+#: application/template/global.php:13
+msgid "Tem certeza que deseja excluir o(s) registro(s) selecionados?"
+msgstr ""
+
+#: application/template/global.php:14
+msgid "A tabela deve estar dentro de um formulário"
+msgstr ""
+
+#: application/template/global.php:15 public/busca/conteudo/resultados.php:173
+#: public/busca/documento/resultados.php:73
+#: public/navegacao/acervo/resultados.php:74
+#: public/navegacao/documento/resultados.php:69
+msgid "Carregando"
+msgstr "Loading"
+
+#: application/template/global.php:16 public/busca/conteudo/resultados.php:174
+#: public/busca/documento/resultados.php:74
+#: public/navegacao/acervo/resultados.php:75
+#: public/navegacao/documento/resultados.php:70
+msgid "Exibir _MENU_ resultados"
+msgstr ""
+
+#: application/template/global.php:17 public/busca/conteudo/resultados.php:53
+#: public/busca/conteudo/resultados.php:175
+#: public/busca/documento/resultados.php:75
+#: public/criticas/obra/criticas.php:17 public/criticas/obra/midias.php:17
+#: public/documentos/documentos.php:86 public/documentos/documentos_new.php:82
+#: public/documentos/midias.php:26 public/navegacao/acervo/resultados.php:76
+#: public/navegacao/documento/resultados.php:71
+msgid "Nenhum resultado encontrado"
+msgstr ""
+
+#: application/template/global.php:18 public/busca/conteudo/resultados.php:176
+#: public/busca/documento/resultados.php:76
+#: public/navegacao/acervo/resultados.php:77
+#: public/navegacao/documento/resultados.php:72
+msgid "Exibindo _START_ a _END_ de _TOTAL_ resultados"
+msgstr ""
+
+#: application/template/global.php:19 public/busca/conteudo/resultados.php:177
+#: public/busca/documento/resultados.php:77
+#: public/navegacao/acervo/resultados.php:78
+#: public/navegacao/documento/resultados.php:73
+msgid "Nenhum resultado"
+msgstr ""
+
+#: application/template/global.php:20 public/busca/conteudo/resultados.php:178
+#: public/busca/documento/resultados.php:78
+#: public/navegacao/acervo/resultados.php:79
+#: public/navegacao/documento/resultados.php:74
+msgid "(filtrados de _MAX_ resultados)"
+msgstr ""
+
+#: application/template/global.php:21
+msgid "Procurar"
+msgstr "Search"
+
+#: application/template/global.php:22 public/busca/conteudo/resultados.php:183
+#: public/busca/documento/resultados.php:83
+#: public/navegacao/acervo/resultados.php:84
+#: public/navegacao/documento/resultados.php:79
+msgid "Primeira"
+msgstr "First"
+
+#: application/template/global.php:23 public/busca/conteudo/resultados.php:184
+#: public/busca/documento/resultados.php:84
+#: public/navegacao/acervo/resultados.php:85
+#: public/navegacao/documento/resultados.php:80
+msgid "Anterior"
+msgstr "Previous"
+
+#: application/template/global.php:24 public/busca/conteudo/resultados.php:185
+#: public/busca/documento/resultados.php:85
+#: public/navegacao/acervo/resultados.php:86
+#: public/navegacao/documento/resultados.php:81
+msgid "Próxima"
+msgstr "Next"
+
+#: application/template/global.php:25 public/busca/conteudo/resultados.php:186
+#: public/busca/documento/resultados.php:86
+#: public/navegacao/acervo/resultados.php:87
+#: public/navegacao/documento/resultados.php:82
+msgid "Última"
+msgstr "Last"
+
+#: application/template/global.php:26
+msgid "Excluir selecionados"
+msgstr ""
+
+#: application/template/global.php:27
+#: public/admin/autores/cadastrar/cadastrar.php:150
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:32
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:32
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:20
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:164
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:19
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:164
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:19
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:160
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:19
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:182
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:19
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:170
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:19
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:153
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:19
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:151
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:19
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:153
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:19
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:148
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:19
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:167
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:19
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:148
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:22
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:170
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:19
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:151
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:19
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:19
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:165
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:19
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:154
+#: public/admin/fontes/cadastrar/cadastrar.php:20
+msgid "Cadastrar"
+msgstr ""
+
+#: application/template/header.php:15
+msgid "Entrar"
+msgstr "Login"
+
+#: application/template/header.php:16
+msgid "Esqueci minha senha"
+msgstr "Remember my password"
+
+#: application/template/header.php:16
+msgid "Cadastre-se apenas para usar os serviços de personalização e anotações"
+msgstr ""
+
+#: application/template/header.php:16
+msgid "Criar uma conta"
+msgstr "Create a login"
+
+#: application/template/header.php:21
+#: application/template/navigation_admin.php:59
+msgid "Logout"
+msgstr "Logout"
+
+#: application/template/header.php:22
+msgid "Meu Perfil"
+msgstr "My Profile"
+
+#: application/template/header.php:23 public/admin/autores/autores.php:7
+#: public/admin/autores/cadastrar/cadastrar.php:16
+#: public/admin/autores/editar/editar.php:33
+#: public/admin/comentarios/autor/autor.php:8
+#: public/admin/comentarios/comentarios.php:7
+#: public/admin/comentarios/denuncias/denuncias.php:8
+#: public/admin/comentarios/documento/documento.php:8
+#: public/admin/criticas/autor/autor.php:8
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:8
+#: public/admin/criticas/autor/editar/editar.php:20
+#: public/admin/criticas/criticas.php:7
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:8
+#: public/admin/criticas/obra/editar/editar.php:21
+#: public/admin/criticas/obra/obra.php:8
+#: public/admin/documentos/audiovisuais/audiovisuais.php:8
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:17
+#: public/admin/documentos/audiovisuais/editar/editar.php:34
+#: public/admin/documentos/biblioteca/biblioteca.php:8
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:16
+#: public/admin/documentos/biblioteca/editar/editar.php:34
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:16
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:8
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:33
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:16
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:8
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:33
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:16
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:8
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:33
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:16
+#: public/admin/documentos/correspondencia/correspondencia.php:8
+#: public/admin/documentos/correspondencia/editar/editar.php:33
+#: public/admin/documentos/documentos.php:7
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:16
+#: public/admin/documentos/esbocos-notas/editar/editar.php:33
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:8
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:16
+#: public/admin/documentos/historia-editorial/editar/editar.php:34
+#: public/admin/documentos/historia-editorial/historia-editorial.php:8
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:16
+#: public/admin/documentos/ilustracoes/editar/editar.php:33
+#: public/admin/documentos/ilustracoes/ilustracoes.php:8
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:16
+#: public/admin/documentos/memorabilia/editar/editar.php:33
+#: public/admin/documentos/memorabilia/memorabilia.php:3
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:16
+#: public/admin/documentos/objetos-arte/editar/editar.php:33
+#: public/admin/documentos/objetos-arte/objetos-arte.php:8
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:19
+#: public/admin/documentos/obra-literaria/editar/editar.php:36
+#: public/admin/documentos/obra-literaria/obra-literaria.php:8
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:16
+#: public/admin/documentos/obra/editar/editar.php:33
+#: public/admin/documentos/obra/obra.php:3
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:16
+#: public/admin/documentos/originais/editar/editar.php:33
+#: public/admin/documentos/originais/originais.php:3
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:16
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:32
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:8
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:16
+#: public/admin/documentos/vida/editar/editar.php:32
+#: public/admin/documentos/vida/vida.php:3
+#: public/admin/estatisticas/estatisticas.php:12
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:8
+#: public/admin/fatos_historicos/editar/editar.php:20
+#: public/admin/fatos_historicos/fatos_historicos.php:7
+#: public/admin/fontes/cadastrar/cadastrar.php:8
+#: public/admin/fontes/editar/editar.php:20 public/admin/fontes/fontes.php:7
+#: public/admin/generos/generos.php:7 public/admin/idiomas/idiomas.php:7
+#: public/admin/usuarios/editar/editar.php:22
+#: public/admin/usuarios/usuarios.php:7
+msgid "Área administrativa"
+msgstr "Administrative Area"
+
+#: application/template/header.php:28 public/busca/documento/documento.php:110
+#: public/documentos/documentos_new.php:228
+msgid "Idioma"
+msgstr "Language"
+
+#: application/template/header.php:233
+msgid "Olá"
+msgstr "Hello"
+
+#: application/template/header.php:249
+#: public/admin/autores/cadastrar/cadastrar.php:205
+#: public/admin/autores/editar/editar.php:302
+#: public/admin/criticas/autor/editar/editar.php:93
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:83
+#: public/admin/criticas/obra/editar/editar.php:94
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:76
+#: public/admin/fatos_historicos/editar/editar.php:88
+#: public/admin/fontes/cadastrar/cadastrar.php:72
+#: public/admin/fontes/editar/editar.php:84
+#: public/admin/usuarios/editar/editar.php:120
+#: public/contas/cadastrar/cadastrar.php:110
+#: public/contas/editar/editar.php:165
+#: public/contas/redefinir/redefinir_1.php:44
+#: public/contas/redefinir/redefinir_2.php:47
+msgid "Ocorreu um erro inesperado"
+msgstr ""
+
+#: application/template/navigation.php:2
+#: public/adaptabilidade/adaptabilidade.php:2 public/autores/autores.php:74
+#: public/busca/autor/resultados.php:26 public/busca/busca.php:2
+#: public/busca/conteudo/resultados.php:35
+#: public/busca/documento/resultados.php:8
+#: public/busca/simples/resultados.php:16
+#: public/contas/cadastrar/cadastrar.php:2
+#: public/contas/confirmar/confirmar.php:6 public/contas/editar/editar.php:2
+#: public/contas/redefinir/redefinir_1.php:6
+#: public/criticas/autor/criticas.php:16 public/criticas/autor/midias.php:14
+#: public/criticas/obra/criticas.php:14 public/criticas/obra/midias.php:14
+#: public/documentos/documentos.php:83 public/documentos/documentos_new.php:79
+#: public/documentos/midias.php:23 public/navegacao/acervo/resultados.php:9
+#: public/navegacao/documento/resultados.php:11
+#: public/navegacao/navegacao.php:2 public/recomendacao/recomendacao.php:5
+#: public/recomendacoes/recomendacoes.php:7 public/sobre/sobre.php:2
+msgid "Início"
+msgstr "Home"
+
+#: application/template/navigation.php:3 public/busca/autor/resultados.php:27
+#: public/busca/busca.php:3 public/busca/conteudo/resultados.php:36
+#: public/busca/documento/resultados.php:9
+#: public/busca/simples/resultados.php:17
+msgid "Busca"
+msgstr "Search"
+
+#: application/template/navigation.php:4
+#: public/navegacao/acervo/resultados.php:10
+#: public/navegacao/documento/resultados.php:12
+#: public/navegacao/navegacao.php:3
+msgid "Navegação"
+msgstr "Browsing"
+
+#: application/template/navigation.php:6 public/sobre/sobre.php:3
+msgid "Sobre"
+msgstr "About"
+
+#: application/template/navigation_admin.php:3
+#: public/admin/autores/autores.php:3
+#: public/admin/autores/cadastrar/cadastrar.php:3
+#: public/admin/autores/editar/editar.php:3
+#: public/admin/comentarios/autor/autor.php:3
+#: public/admin/comentarios/comentarios.php:3
+#: public/admin/comentarios/denuncias/denuncias.php:3
+#: public/admin/comentarios/documento/documento.php:3
+#: public/admin/criticas/autor/autor.php:3
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:3
+#: public/admin/criticas/autor/editar/editar.php:3
+#: public/admin/criticas/criticas.php:3
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:3
+#: public/admin/criticas/obra/editar/editar.php:3
+#: public/admin/criticas/obra/obra.php:3
+#: public/admin/documentos/audiovisuais/audiovisuais.php:3
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:3
+#: public/admin/documentos/audiovisuais/editar/editar.php:3
+#: public/admin/documentos/biblioteca/biblioteca.php:3
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:3
+#: public/admin/documentos/biblioteca/editar/editar.php:3
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:3
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:3
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:3
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:3
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:3
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:3
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:3
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:3
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:3
+#: public/admin/documentos/correspondencia/correspondencia.php:3
+#: public/admin/documentos/correspondencia/editar/editar.php:3
+#: public/admin/documentos/documentos.php:3
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:3
+#: public/admin/documentos/esbocos-notas/editar/editar.php:3
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:3
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:3
+#: public/admin/documentos/historia-editorial/editar/editar.php:3
+#: public/admin/documentos/historia-editorial/historia-editorial.php:3
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:3
+#: public/admin/documentos/ilustracoes/editar/editar.php:3
+#: public/admin/documentos/ilustracoes/ilustracoes.php:3
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:3
+#: public/admin/documentos/memorabilia/editar/editar.php:3
+#: public/admin/documentos/objetos-arte/editar/editar.php:3
+#: public/admin/documentos/objetos-arte/objetos-arte.php:3
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:3
+#: public/admin/documentos/obra-literaria/editar/editar.php:3
+#: public/admin/documentos/obra-literaria/obra-literaria.php:3
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:3
+#: public/admin/documentos/obra/editar/editar.php:3
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:3
+#: public/admin/documentos/originais/editar/editar.php:3
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:3
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:3
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:3
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:3
+#: public/admin/documentos/vida/editar/editar.php:3
+#: public/admin/estatisticas/estatisticas.php:6
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:3
+#: public/admin/fatos_historicos/editar/editar.php:3
+#: public/admin/fatos_historicos/fatos_historicos.php:3
+#: public/admin/fontes/cadastrar/cadastrar.php:3
+#: public/admin/fontes/editar/editar.php:3 public/admin/fontes/fontes.php:3
+#: public/admin/generos/generos.php:3 public/admin/idiomas/idiomas.php:3
+#: public/admin/usuarios/editar/editar.php:3
+#: public/admin/usuarios/usuarios.php:3
+msgid "Acesso negado"
+msgstr "Denied Access"
+
+#: application/template/navigation_admin.php:11
+#: public/admin/estatisticas/estatisticas.php:12
+msgid "Estatísticas"
+msgstr "Statistics"
+
+#: application/template/navigation_admin.php:14
+#: public/admin/autores/autores.php:7
+#: public/admin/autores/cadastrar/cadastrar.php:17
+#: public/admin/autores/editar/editar.php:34
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:30
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:31
+#: public/admin/documentos/audiovisuais/editar/editar.php:47
+#: public/admin/documentos/audiovisuais/editar/editar.php:48
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:30
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:31
+#: public/admin/documentos/biblioteca/editar/editar.php:47
+#: public/admin/documentos/biblioteca/editar/editar.php:48
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:29
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:30
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:46
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:47
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:29
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:30
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:46
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:47
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:30
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:31
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:46
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:47
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:29
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:30
+#: public/admin/documentos/correspondencia/editar/editar.php:46
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:29
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:30
+#: public/admin/documentos/esbocos-notas/editar/editar.php:46
+#: public/admin/documentos/esbocos-notas/editar/editar.php:47
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:29
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:30
+#: public/admin/documentos/historia-editorial/editar/editar.php:47
+#: public/admin/documentos/historia-editorial/editar/editar.php:48
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:29
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:30
+#: public/admin/documentos/ilustracoes/editar/editar.php:46
+#: public/admin/documentos/ilustracoes/editar/editar.php:47
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:29
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:30
+#: public/admin/documentos/memorabilia/editar/editar.php:46
+#: public/admin/documentos/memorabilia/editar/editar.php:47
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:29
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:30
+#: public/admin/documentos/objetos-arte/editar/editar.php:46
+#: public/admin/documentos/objetos-arte/editar/editar.php:47
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:36
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:37
+#: public/admin/documentos/obra-literaria/editar/editar.php:56
+#: public/admin/documentos/obra-literaria/editar/editar.php:57
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:29
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:30
+#: public/admin/documentos/obra/editar/editar.php:46
+#: public/admin/documentos/obra/editar/editar.php:47
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:33
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:34
+#: public/admin/documentos/originais/editar/editar.php:50
+#: public/admin/documentos/originais/editar/editar.php:51
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:29
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:30
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:45
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:46
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:29
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:30
+#: public/admin/documentos/vida/editar/editar.php:45
+#: public/admin/documentos/vida/editar/editar.php:46
+#: public/autores/autores.php:75 public/busca/conteudo/resultados.php:67
+msgid "Autores"
+msgstr "Authors"
+
+#: application/template/navigation_admin.php:17
+#: public/admin/documentos/audiovisuais/audiovisuais.php:9
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:18
+#: public/admin/documentos/audiovisuais/editar/editar.php:35
+#: public/admin/documentos/biblioteca/biblioteca.php:9
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:17
+#: public/admin/documentos/biblioteca/editar/editar.php:35
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:17
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:9
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:34
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:17
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:9
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:34
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:17
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:9
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:34
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:17
+#: public/admin/documentos/correspondencia/correspondencia.php:9
+#: public/admin/documentos/correspondencia/editar/editar.php:34
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:17
+#: public/admin/documentos/esbocos-notas/editar/editar.php:34
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:9
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:17
+#: public/admin/documentos/historia-editorial/editar/editar.php:35
+#: public/admin/documentos/historia-editorial/historia-editorial.php:9
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:17
+#: public/admin/documentos/ilustracoes/editar/editar.php:34
+#: public/admin/documentos/ilustracoes/ilustracoes.php:9
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:17
+#: public/admin/documentos/memorabilia/editar/editar.php:34
+#: public/admin/documentos/memorabilia/memorabilia.php:4
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:17
+#: public/admin/documentos/objetos-arte/editar/editar.php:34
+#: public/admin/documentos/objetos-arte/objetos-arte.php:9
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:20
+#: public/admin/documentos/obra-literaria/editar/editar.php:37
+#: public/admin/documentos/obra-literaria/obra-literaria.php:9
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:17
+#: public/admin/documentos/obra/editar/editar.php:34
+#: public/admin/documentos/obra/obra.php:4
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:17
+#: public/admin/documentos/originais/editar/editar.php:34
+#: public/admin/documentos/originais/originais.php:4
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:17
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:33
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:9
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:17
+#: public/admin/documentos/vida/editar/editar.php:33
+#: public/admin/documentos/vida/vida.php:4 public/documentos/documentos.php:84
+#: public/documentos/documentos_new.php:80
+msgid "Documentos"
+msgstr "Documents"
+
+#: application/template/navigation_admin.php:27
+#: public/admin/criticas/autor/autor.php:9
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:9
+#: public/admin/criticas/autor/editar/editar.php:21
+#: public/admin/criticas/criticas.php:7
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:9
+#: public/admin/criticas/obra/editar/editar.php:22
+#: public/admin/criticas/obra/obra.php:9
+msgid "Críticas"
+msgstr ""
+
+#: application/template/navigation_admin.php:29
+#: application/template/navigation_admin.php:45
+#: public/admin/comentarios/autor/autor.php:10
+#: public/admin/comentarios/autor/autor.php:19
+#: public/admin/comentarios/comentarios.php:8
+#: public/admin/criticas/autor/autor.php:10
+#: public/admin/criticas/autor/autor.php:20
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:19
+#: public/admin/criticas/autor/editar/editar.php:30
+#: public/admin/criticas/criticas.php:8 public/busca/busca.php:8
+#: public/contas/editar/editar.php:84 public/documentos/documentos.php:113
+#: public/documentos/documentos_new.php:109 public/documentos/midias.php:52
+#: public/navegacao/navegacao.php:6 public/recomendacao/recomendacao.php:14
+#: public/recomendacoes/recomendacoes.php:31
+msgid "Autor"
+msgstr "Author"
+
+#: application/template/navigation_admin.php:30
+#: public/admin/criticas/criticas.php:9
+#: public/admin/criticas/obra/editar/editar.php:31
+#: public/admin/criticas/obra/obra.php:10
+#: public/admin/documentos/documentos.php:21
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:18
+#: public/admin/documentos/obra/editar/editar.php:35
+#: public/admin/documentos/obra/obra.php:5
+#: public/busca/conteudo/resultados.php:66 public/contas/editar/editar.php:83
+msgid "Obra"
+msgstr "Work"
+
+#: application/template/navigation_admin.php:34
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:9
+#: public/admin/fatos_historicos/editar/editar.php:21
+msgid "Fatos Históricos"
+msgstr "Historic Facts"
+
+#: application/template/navigation_admin.php:37
+#: public/admin/autores/cadastrar/cadastrar.php:131
+#: public/admin/autores/editar/editar.php:164
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:101
+#: public/admin/documentos/audiovisuais/editar/editar.php:140
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:100
+#: public/admin/documentos/biblioteca/editar/editar.php:141
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:98
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:140
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:97
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:140
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:99
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:141
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:97
+#: public/admin/documentos/correspondencia/editar/editar.php:140
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:97
+#: public/admin/documentos/esbocos-notas/editar/editar.php:140
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:97
+#: public/admin/documentos/historia-editorial/editar/editar.php:141
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:97
+#: public/admin/documentos/ilustracoes/editar/editar.php:140
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:97
+#: public/admin/documentos/memorabilia/editar/editar.php:140
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:97
+#: public/admin/documentos/objetos-arte/editar/editar.php:140
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:121
+#: public/admin/documentos/obra-literaria/editar/editar.php:162
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:98
+#: public/admin/documentos/obra/editar/editar.php:140
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:101
+#: public/admin/documentos/originais/editar/editar.php:144
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:97
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:139
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:97
+#: public/admin/documentos/vida/editar/editar.php:139
+#: public/admin/fontes/cadastrar/cadastrar.php:9
+#: public/admin/fontes/editar/editar.php:21 public/admin/fontes/fontes.php:7
+#: public/autores/autores.php:208 public/documentos/documentos.php:505
+#: public/documentos/documentos_new.php:456
+msgid "Fontes"
+msgstr "Sources"
+
+#: application/template/navigation_admin.php:43
+#: public/admin/comentarios/autor/autor.php:9
+#: public/admin/comentarios/comentarios.php:7
+#: public/admin/comentarios/denuncias/denuncias.php:9
+#: public/admin/comentarios/documento/documento.php:9
+#: public/autores/autores.php:333 public/documentos/documentos.php:591
+#: public/documentos/documentos_new.php:542
+msgid "Comentários"
+msgstr "Commentaires"
+
+#: application/template/navigation_admin.php:46
+#: public/admin/comentarios/comentarios.php:9
+#: public/admin/comentarios/documento/documento.php:10
+#: public/admin/comentarios/documento/documento.php:19 public/busca/busca.php:7
+#: public/navegacao/documento/resultados.php:13
+#: public/navegacao/navegacao.php:7
+msgid "Documento"
+msgstr "Document"
+
+#: application/template/navigation_admin.php:47
+#: public/admin/comentarios/autor/autor.php:23
+#: public/admin/comentarios/comentarios.php:10
+#: public/admin/comentarios/denuncias/denuncias.php:10
+#: public/admin/comentarios/documento/documento.php:23
+msgid "Denúncias"
+msgstr ""
+
+#: application/template/navigation_admin.php:51
+#: public/admin/usuarios/editar/editar.php:23
+#: public/admin/usuarios/usuarios.php:7
+msgid "Usuários"
+msgstr "Users"
+
+#: application/template/navigation_admin.php:60
+msgid "Configurações"
+msgstr ""
+
+#: application/template/navigation_admin.php:61
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: application/template/navigation_admin.php:62
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:155
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:218
+#: public/documentos/documentos.php:416
+#: public/documentos/documentos_new.php:367
+msgid "Página inicial"
+msgstr "Home"
+
+#: public/adaptabilidade/adaptabilidade.php:3
+#: public/adaptabilidade/adaptabilidade.php:6
+msgid "Adaptabilidade"
+msgstr "Personalization"
+
+#: public/adaptabilidade/adaptabilidade.php:7
+msgid "Em construção"
+msgstr ""
+
+#: public/admin/autores/autores.php:14
+#: public/admin/autores/cadastrar/cadastrar.php:23
+#: public/admin/autores/editar/editar.php:40
+#: public/admin/usuarios/editar/editar.php:30
+#: public/admin/usuarios/usuarios.php:14 public/busca/autor.php:7
+#: public/busca/autor.php:8 public/busca/autor/autor.php:24
+#: public/busca/autor/autor.php:25 public/busca/autor/resultados.php:35
+msgid "Nome"
+msgstr "Name"
+
+#: public/admin/autores/autores.php:15 public/contas/cadastrar/cadastrar.php:24
+#: public/contas/editar/editar.php:25
+msgid "Nome completo"
+msgstr "Full name"
+
+#: public/admin/autores/autores.php:16
+#: public/admin/autores/cadastrar/cadastrar.php:26
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:145
+#: public/admin/documentos/originais/editar/editar.php:208
+#: public/busca/autor.php:10 public/documentos/documentos.php:471
+#: public/documentos/documentos_new.php:422
+msgid "Pseudônimo"
+msgstr ""
+
+#: public/admin/autores/autores.php:17
+#: public/admin/autores/cadastrar/cadastrar.php:77
+msgid "Catarinense"
+msgstr ""
+
+#: public/admin/autores/autores.php:23 public/admin/criticas/autor/autor.php:27
+#: public/admin/criticas/obra/obra.php:27
+#: public/admin/documentos/audiovisuais/audiovisuais.php:26
+#: public/admin/documentos/biblioteca/biblioteca.php:26
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:26
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:26
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:26
+#: public/admin/documentos/correspondencia/correspondencia.php:26
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:26
+#: public/admin/documentos/historia-editorial/historia-editorial.php:26
+#: public/admin/documentos/ilustracoes/ilustracoes.php:26
+#: public/admin/documentos/memorabilia/memorabilia.php:21
+#: public/admin/documentos/objetos-arte/objetos-arte.php:26
+#: public/admin/documentos/obra-literaria/obra-literaria.php:26
+#: public/admin/documentos/obra/obra.php:21
+#: public/admin/documentos/originais/originais.php:21
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:26
+#: public/admin/documentos/vida/vida.php:21
+#: public/admin/fatos_historicos/fatos_historicos.php:22
+#: public/admin/fontes/fontes.php:20 public/admin/generos/generos.php:20
+#: public/admin/idiomas/idiomas.php:20 public/admin/usuarios/usuarios.php:23
+msgid "Clique em um registro da tabela para editá-lo."
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:18
+msgid "Cadastrar autor"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:24
+#: public/admin/autores/editar/editar.php:41
+msgid "Nome Completo"
+msgstr "Full Name"
+
+#: public/admin/autores/cadastrar/cadastrar.php:26
+#: public/admin/autores/editar/editar.php:43
+msgid "Separar por vírgula"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:28
+#: public/admin/autores/editar/editar.php:45
+msgid "Nome Usual"
+msgstr "Usual Name"
+
+#: public/admin/autores/cadastrar/cadastrar.php:32
+#: public/admin/autores/editar/editar.php:49 public/busca/autor.php:14
+#: public/busca/autor/autor.php:33 public/busca/autor/resultados.php:36
+msgid "Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:33
+#: public/admin/autores/editar/editar.php:50 public/busca/autor.php:15
+msgid "Ano de Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:35 public/busca/autor.php:17
+msgid "Século de Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:37
+#: public/admin/autores/cadastrar/cadastrar.php:86
+#: public/admin/autores/editar/editar.php:54
+#: public/admin/autores/editar/editar.php:112
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:44
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:61
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:92
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:113
+#: public/admin/documentos/audiovisuais/editar/editar.php:71
+#: public/admin/documentos/audiovisuais/editar/editar.php:86
+#: public/admin/documentos/audiovisuais/editar/editar.php:127
+#: public/admin/documentos/audiovisuais/editar/editar.php:160
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:45
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:60
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:91
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:110
+#: public/admin/documentos/biblioteca/editar/editar.php:71
+#: public/admin/documentos/biblioteca/editar/editar.php:87
+#: public/admin/documentos/biblioteca/editar/editar.php:128
+#: public/admin/documentos/biblioteca/editar/editar.php:161
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:43
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:58
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:89
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:108
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:70
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:86
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:127
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:160
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:43
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:58
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:88
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:107
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:70
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:86
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:127
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:160
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:45
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:60
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:90
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:109
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:71
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:87
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:128
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:161
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:43
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:58
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:88
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:107
+#: public/admin/documentos/correspondencia/editar/editar.php:47
+#: public/admin/documentos/correspondencia/editar/editar.php:70
+#: public/admin/documentos/correspondencia/editar/editar.php:86
+#: public/admin/documentos/correspondencia/editar/editar.php:127
+#: public/admin/documentos/correspondencia/editar/editar.php:160
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:43
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:58
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:88
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:107
+#: public/admin/documentos/esbocos-notas/editar/editar.php:70
+#: public/admin/documentos/esbocos-notas/editar/editar.php:86
+#: public/admin/documentos/esbocos-notas/editar/editar.php:127
+#: public/admin/documentos/esbocos-notas/editar/editar.php:160
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:43
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:58
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:88
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:107
+#: public/admin/documentos/historia-editorial/editar/editar.php:71
+#: public/admin/documentos/historia-editorial/editar/editar.php:87
+#: public/admin/documentos/historia-editorial/editar/editar.php:128
+#: public/admin/documentos/historia-editorial/editar/editar.php:161
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:43
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:58
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:88
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:107
+#: public/admin/documentos/ilustracoes/editar/editar.php:70
+#: public/admin/documentos/ilustracoes/editar/editar.php:86
+#: public/admin/documentos/ilustracoes/editar/editar.php:127
+#: public/admin/documentos/ilustracoes/editar/editar.php:160
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:43
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:58
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:88
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:107
+#: public/admin/documentos/memorabilia/editar/editar.php:70
+#: public/admin/documentos/memorabilia/editar/editar.php:86
+#: public/admin/documentos/memorabilia/editar/editar.php:127
+#: public/admin/documentos/memorabilia/editar/editar.php:160
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:43
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:58
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:88
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:107
+#: public/admin/documentos/objetos-arte/editar/editar.php:70
+#: public/admin/documentos/objetos-arte/editar/editar.php:86
+#: public/admin/documentos/objetos-arte/editar/editar.php:127
+#: public/admin/documentos/objetos-arte/editar/editar.php:160
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:50
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:80
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:91
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:102
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:136
+#: public/admin/documentos/obra-literaria/editar/editar.php:80
+#: public/admin/documentos/obra-literaria/editar/editar.php:121
+#: public/admin/documentos/obra-literaria/editar/editar.php:132
+#: public/admin/documentos/obra-literaria/editar/editar.php:143
+#: public/admin/documentos/obra-literaria/editar/editar.php:187
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:43
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:58
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:89
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:108
+#: public/admin/documentos/obra/editar/editar.php:70
+#: public/admin/documentos/obra/editar/editar.php:86
+#: public/admin/documentos/obra/editar/editar.php:127
+#: public/admin/documentos/obra/editar/editar.php:160
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:47
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:62
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:92
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:111
+#: public/admin/documentos/originais/editar/editar.php:74
+#: public/admin/documentos/originais/editar/editar.php:90
+#: public/admin/documentos/originais/editar/editar.php:164
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:43
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:58
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:88
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:107
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:69
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:85
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:159
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:43
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:58
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:88
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:107
+#: public/admin/documentos/vida/editar/editar.php:69
+#: public/admin/documentos/vida/editar/editar.php:85
+#: public/admin/documentos/vida/editar/editar.php:126
+#: public/admin/documentos/vida/editar/editar.php:159 public/busca/autor.php:19
+#: public/busca/autor.php:38 public/busca/autor/autor.php:42
+#: public/busca/autor/autor.php:54 public/busca/autor/autor.php:102
+#: public/busca/autor/autor.php:114 public/busca/documento/documento.php:84
+#: public/busca/documento/documento.php:96
+msgid "Selecione"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:46
+#: public/admin/autores/editar/editar.php:70 public/busca/autor.php:28
+msgid "Local de Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:49
+#: public/admin/autores/editar/editar.php:73 public/busca/autor/autor.php:67
+msgid "Estado/Região de Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:59
+#: public/admin/autores/cadastrar/cadastrar.php:108
+#: public/admin/autores/editar/editar.php:84
+#: public/admin/autores/editar/editar.php:142
+msgid "Outro"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:63
+#: public/admin/autores/cadastrar/cadastrar.php:112
+msgid "Indique o Estado/Região"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:66
+#: public/admin/autores/editar/editar.php:92 public/busca/autor/autor.php:79
+msgid "País de Nascimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:78
+msgid "Piauiense"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:81
+#: public/admin/autores/editar/editar.php:107 public/busca/autor.php:33
+msgid "Morte"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:82
+#: public/admin/autores/editar/editar.php:108 public/busca/autor.php:34
+msgid "Ano da Morte"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:84 public/busca/autor.php:36
+msgid "Século da Morte"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:95
+#: public/admin/autores/editar/editar.php:128
+msgid "Local de Falecimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:98
+#: public/admin/autores/editar/editar.php:131 public/busca/autor/autor.php:127
+msgid "Estado/Região de Falecimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:116
+#: public/admin/autores/editar/editar.php:150 public/busca/autor/autor.php:139
+msgid "País de Falecimento"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:130
+#: public/admin/autores/editar/editar.php:163
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:100
+#: public/admin/documentos/audiovisuais/editar/editar.php:139
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:99
+#: public/admin/documentos/biblioteca/editar/editar.php:140
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:97
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:139
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:96
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:139
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:98
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:140
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:96
+#: public/admin/documentos/correspondencia/editar/editar.php:139
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:96
+#: public/admin/documentos/esbocos-notas/editar/editar.php:139
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:96
+#: public/admin/documentos/historia-editorial/editar/editar.php:140
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:96
+#: public/admin/documentos/ilustracoes/editar/editar.php:139
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:96
+#: public/admin/documentos/memorabilia/editar/editar.php:139
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:96
+#: public/admin/documentos/objetos-arte/editar/editar.php:139
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:120
+#: public/admin/documentos/obra-literaria/editar/editar.php:161
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:97
+#: public/admin/documentos/obra/editar/editar.php:139
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:100
+#: public/admin/documentos/originais/editar/editar.php:143
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:96
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:138
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:96
+#: public/admin/documentos/vida/editar/editar.php:138
+msgid "Outras informações"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:132
+#: public/admin/autores/editar/editar.php:165
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:102
+#: public/admin/documentos/audiovisuais/editar/editar.php:141
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:101
+#: public/admin/documentos/biblioteca/editar/editar.php:142
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:99
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:141
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:98
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:141
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:100
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:142
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:98
+#: public/admin/documentos/correspondencia/editar/editar.php:141
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:98
+#: public/admin/documentos/esbocos-notas/editar/editar.php:141
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:98
+#: public/admin/documentos/historia-editorial/editar/editar.php:142
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:98
+#: public/admin/documentos/ilustracoes/editar/editar.php:141
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:98
+#: public/admin/documentos/memorabilia/editar/editar.php:141
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:98
+#: public/admin/documentos/objetos-arte/editar/editar.php:141
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:122
+#: public/admin/documentos/obra-literaria/editar/editar.php:163
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:99
+#: public/admin/documentos/obra/editar/editar.php:141
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:102
+#: public/admin/documentos/originais/editar/editar.php:145
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:98
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:140
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:98
+#: public/admin/documentos/vida/editar/editar.php:140
+msgid ""
+"Digite o nome da fonte, selecione um dos resultados encontrados e clique no "
+"botão ao lado para adicioná-la à lista"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:134
+#: public/admin/autores/editar/editar.php:167
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:34
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:73
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:104
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:126
+#: public/admin/documentos/audiovisuais/editar/editar.php:51
+#: public/admin/documentos/audiovisuais/editar/editar.php:98
+#: public/admin/documentos/audiovisuais/editar/editar.php:143
+#: public/admin/documentos/audiovisuais/editar/editar.php:173
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:34
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:72
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:103
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:122
+#: public/admin/documentos/biblioteca/editar/editar.php:51
+#: public/admin/documentos/biblioteca/editar/editar.php:99
+#: public/admin/documentos/biblioteca/editar/editar.php:144
+#: public/admin/documentos/biblioteca/editar/editar.php:174
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:33
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:70
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:101
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:120
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:50
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:98
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:143
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:173
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:33
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:69
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:100
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:119
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:50
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:98
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:143
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:173
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:34
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:71
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:102
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:121
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:50
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:99
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:144
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:174
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:33
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:69
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:100
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:120
+#: public/admin/documentos/correspondencia/editar/editar.php:50
+#: public/admin/documentos/correspondencia/editar/editar.php:98
+#: public/admin/documentos/correspondencia/editar/editar.php:143
+#: public/admin/documentos/correspondencia/editar/editar.php:173
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:33
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:69
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:100
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:120
+#: public/admin/documentos/esbocos-notas/editar/editar.php:50
+#: public/admin/documentos/esbocos-notas/editar/editar.php:98
+#: public/admin/documentos/esbocos-notas/editar/editar.php:143
+#: public/admin/documentos/esbocos-notas/editar/editar.php:173
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:33
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:69
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:100
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:120
+#: public/admin/documentos/historia-editorial/editar/editar.php:51
+#: public/admin/documentos/historia-editorial/editar/editar.php:99
+#: public/admin/documentos/historia-editorial/editar/editar.php:144
+#: public/admin/documentos/historia-editorial/editar/editar.php:174
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:33
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:69
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:100
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:120
+#: public/admin/documentos/ilustracoes/editar/editar.php:50
+#: public/admin/documentos/ilustracoes/editar/editar.php:98
+#: public/admin/documentos/ilustracoes/editar/editar.php:143
+#: public/admin/documentos/ilustracoes/editar/editar.php:173
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:33
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:69
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:100
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:120
+#: public/admin/documentos/memorabilia/editar/editar.php:50
+#: public/admin/documentos/memorabilia/editar/editar.php:98
+#: public/admin/documentos/memorabilia/editar/editar.php:143
+#: public/admin/documentos/memorabilia/editar/editar.php:173
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:33
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:69
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:100
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:120
+#: public/admin/documentos/objetos-arte/editar/editar.php:50
+#: public/admin/documentos/objetos-arte/editar/editar.php:98
+#: public/admin/documentos/objetos-arte/editar/editar.php:143
+#: public/admin/documentos/objetos-arte/editar/editar.php:173
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:40
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:61
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:124
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:149
+#: public/admin/documentos/obra-literaria/editar/editar.php:60
+#: public/admin/documentos/obra-literaria/editar/editar.php:92
+#: public/admin/documentos/obra-literaria/editar/editar.php:165
+#: public/admin/documentos/obra-literaria/editar/editar.php:200
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:33
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:69
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:101
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:121
+#: public/admin/documentos/obra/editar/editar.php:50
+#: public/admin/documentos/obra/editar/editar.php:98
+#: public/admin/documentos/obra/editar/editar.php:143
+#: public/admin/documentos/obra/editar/editar.php:173
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:37
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:73
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:104
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:124
+#: public/admin/documentos/originais/editar/editar.php:54
+#: public/admin/documentos/originais/editar/editar.php:102
+#: public/admin/documentos/originais/editar/editar.php:147
+#: public/admin/documentos/originais/editar/editar.php:177
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:33
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:69
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:100
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:120
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:49
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:97
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:142
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:172
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:33
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:69
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:100
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:120
+#: public/admin/documentos/vida/editar/editar.php:49
+#: public/admin/documentos/vida/editar/editar.php:97
+#: public/admin/documentos/vida/editar/editar.php:142
+#: public/admin/documentos/vida/editar/editar.php:172
+msgid "Adicionar à lista"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:137
+#: public/admin/autores/editar/editar.php:180
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:37
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:76
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:107
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:129
+#: public/admin/documentos/audiovisuais/editar/editar.php:64
+#: public/admin/documentos/audiovisuais/editar/editar.php:111
+#: public/admin/documentos/audiovisuais/editar/editar.php:156
+#: public/admin/documentos/audiovisuais/editar/editar.php:186
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:37
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:75
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:106
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:125
+#: public/admin/documentos/biblioteca/editar/editar.php:64
+#: public/admin/documentos/biblioteca/editar/editar.php:112
+#: public/admin/documentos/biblioteca/editar/editar.php:157
+#: public/admin/documentos/biblioteca/editar/editar.php:187
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:36
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:73
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:104
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:123
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:63
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:111
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:156
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:186
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:36
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:72
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:103
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:122
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:63
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:111
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:156
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:186
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:37
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:74
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:105
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:124
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:63
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:112
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:157
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:187
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:36
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:72
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:103
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:123
+#: public/admin/documentos/correspondencia/editar/editar.php:63
+#: public/admin/documentos/correspondencia/editar/editar.php:111
+#: public/admin/documentos/correspondencia/editar/editar.php:156
+#: public/admin/documentos/correspondencia/editar/editar.php:186
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:36
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:72
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:103
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:123
+#: public/admin/documentos/esbocos-notas/editar/editar.php:63
+#: public/admin/documentos/esbocos-notas/editar/editar.php:111
+#: public/admin/documentos/esbocos-notas/editar/editar.php:156
+#: public/admin/documentos/esbocos-notas/editar/editar.php:186
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:36
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:72
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:103
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:123
+#: public/admin/documentos/historia-editorial/editar/editar.php:64
+#: public/admin/documentos/historia-editorial/editar/editar.php:112
+#: public/admin/documentos/historia-editorial/editar/editar.php:157
+#: public/admin/documentos/historia-editorial/editar/editar.php:187
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:36
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:72
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:103
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:123
+#: public/admin/documentos/ilustracoes/editar/editar.php:63
+#: public/admin/documentos/ilustracoes/editar/editar.php:111
+#: public/admin/documentos/ilustracoes/editar/editar.php:156
+#: public/admin/documentos/ilustracoes/editar/editar.php:186
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:36
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:72
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:103
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:123
+#: public/admin/documentos/memorabilia/editar/editar.php:63
+#: public/admin/documentos/memorabilia/editar/editar.php:111
+#: public/admin/documentos/memorabilia/editar/editar.php:156
+#: public/admin/documentos/memorabilia/editar/editar.php:186
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:36
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:72
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:103
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:123
+#: public/admin/documentos/objetos-arte/editar/editar.php:63
+#: public/admin/documentos/objetos-arte/editar/editar.php:111
+#: public/admin/documentos/objetos-arte/editar/editar.php:156
+#: public/admin/documentos/objetos-arte/editar/editar.php:186
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:43
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:64
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:127
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:152
+#: public/admin/documentos/obra-literaria/editar/editar.php:73
+#: public/admin/documentos/obra-literaria/editar/editar.php:105
+#: public/admin/documentos/obra-literaria/editar/editar.php:178
+#: public/admin/documentos/obra-literaria/editar/editar.php:213
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:36
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:72
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:104
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:124
+#: public/admin/documentos/obra/editar/editar.php:63
+#: public/admin/documentos/obra/editar/editar.php:111
+#: public/admin/documentos/obra/editar/editar.php:156
+#: public/admin/documentos/obra/editar/editar.php:186
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:40
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:76
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:107
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:127
+#: public/admin/documentos/originais/editar/editar.php:67
+#: public/admin/documentos/originais/editar/editar.php:115
+#: public/admin/documentos/originais/editar/editar.php:160
+#: public/admin/documentos/originais/editar/editar.php:190
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:72
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:103
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:123
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:62
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:110
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:185
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:36
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:72
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:103
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:123
+#: public/admin/documentos/vida/editar/editar.php:62
+#: public/admin/documentos/vida/editar/editar.php:110
+#: public/admin/documentos/vida/editar/editar.php:155
+#: public/admin/documentos/vida/editar/editar.php:185
+msgid "Remover da lista"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:140
+#: public/admin/autores/editar/editar.php:183
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:156
+#: public/admin/documentos/audiovisuais/editar/editar.php:209
+#: public/admin/documentos/audiovisuais/editar/editar.php:234
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:156
+#: public/admin/documentos/biblioteca/editar/editar.php:218
+#: public/admin/documentos/biblioteca/editar/editar.php:243
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:152
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:215
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:240
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:174
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:237
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:262
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:162
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:225
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:250
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:145
+#: public/admin/documentos/correspondencia/editar/editar.php:208
+#: public/admin/documentos/correspondencia/editar/editar.php:233
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:143
+#: public/admin/documentos/esbocos-notas/editar/editar.php:206
+#: public/admin/documentos/esbocos-notas/editar/editar.php:231
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:145
+#: public/admin/documentos/historia-editorial/editar/editar.php:209
+#: public/admin/documentos/historia-editorial/editar/editar.php:234
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:140
+#: public/admin/documentos/ilustracoes/editar/editar.php:203
+#: public/admin/documentos/ilustracoes/editar/editar.php:228
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:159
+#: public/admin/documentos/memorabilia/editar/editar.php:222
+#: public/admin/documentos/memorabilia/editar/editar.php:247
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:140
+#: public/admin/documentos/objetos-arte/editar/editar.php:203
+#: public/admin/documentos/objetos-arte/editar/editar.php:228
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:162
+#: public/admin/documentos/obra-literaria/editar/editar.php:223
+#: public/admin/documentos/obra-literaria/editar/editar.php:248
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:143
+#: public/admin/documentos/obra/editar/editar.php:205
+#: public/admin/documentos/obra/editar/editar.php:230
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:155
+#: public/admin/documentos/originais/editar/editar.php:218
+#: public/admin/documentos/originais/editar/editar.php:243
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:157
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:219
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:244
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:146
+#: public/admin/documentos/vida/editar/editar.php:208
+#: public/admin/documentos/vida/editar/editar.php:233
+#: public/admin/fontes/cadastrar/cadastrar.php:17
+#: public/admin/fontes/editar/editar.php:29 public/autores/autores.php:200
+#: public/autores/autores.php:313 public/busca/autor/autor.php:154
+#: public/busca/documento/documento.php:108
+#: public/documentos/documentos.php:221 public/documentos/documentos.php:570
+#: public/documentos/documentos_new.php:194
+#: public/documentos/documentos_new.php:521
+msgid "Descrição"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:142
+#: public/admin/autores/editar/editar.php:185
+msgid "Sexo"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:145
+#: public/admin/autores/editar/editar.php:188
+msgid "Masculino"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:146
+#: public/admin/autores/editar/editar.php:189
+msgid "Feminino"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:147
+#: public/admin/autores/editar/editar.php:190
+msgid "Indefinido"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:152
+#: public/admin/autores/editar/editar.php:195
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:166
+#: public/admin/documentos/audiovisuais/editar/editar.php:249
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:166
+#: public/admin/documentos/biblioteca/editar/editar.php:258
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:162
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:255
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:184
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:277
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:172
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:265
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:155
+#: public/admin/documentos/correspondencia/editar/editar.php:248
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:153
+#: public/admin/documentos/esbocos-notas/editar/editar.php:246
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:155
+#: public/admin/documentos/historia-editorial/editar/editar.php:249
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:150
+#: public/admin/documentos/ilustracoes/editar/editar.php:243
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:169
+#: public/admin/documentos/memorabilia/editar/editar.php:262
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:150
+#: public/admin/documentos/objetos-arte/editar/editar.php:243
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:172
+#: public/admin/documentos/obra-literaria/editar/editar.php:263
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:153
+#: public/admin/documentos/obra/editar/editar.php:245
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:165
+#: public/admin/documentos/originais/editar/editar.php:258
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:167
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:259
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:156
+#: public/admin/documentos/vida/editar/editar.php:248
+#: public/admin/usuarios/editar/editar.php:69
+msgid "Ir ao topo"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:153
+#: public/admin/autores/editar/editar.php:196
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:34
+#: public/admin/criticas/autor/editar/editar.php:43
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:34
+#: public/admin/criticas/obra/editar/editar.php:44
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:167
+#: public/admin/documentos/audiovisuais/editar/editar.php:250
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:167
+#: public/admin/documentos/biblioteca/editar/editar.php:259
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:163
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:256
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:185
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:278
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:173
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:266
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:156
+#: public/admin/documentos/correspondencia/editar/editar.php:249
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:154
+#: public/admin/documentos/esbocos-notas/editar/editar.php:247
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:156
+#: public/admin/documentos/historia-editorial/editar/editar.php:250
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:151
+#: public/admin/documentos/ilustracoes/editar/editar.php:244
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:170
+#: public/admin/documentos/memorabilia/editar/editar.php:263
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:151
+#: public/admin/documentos/objetos-arte/editar/editar.php:244
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:173
+#: public/admin/documentos/obra-literaria/editar/editar.php:264
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:154
+#: public/admin/documentos/obra/editar/editar.php:246
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:166
+#: public/admin/documentos/originais/editar/editar.php:259
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:168
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:260
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:157
+#: public/admin/documentos/vida/editar/editar.php:249
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:26
+#: public/admin/fatos_historicos/editar/editar.php:38
+#: public/admin/fontes/cadastrar/cadastrar.php:22
+#: public/admin/fontes/editar/editar.php:34
+#: public/admin/usuarios/editar/editar.php:70
+msgid "Voltar à página anterior"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:157
+#: public/admin/autores/editar/editar.php:200
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:38
+#: public/admin/criticas/autor/editar/editar.php:47
+#: public/admin/criticas/obra/editar/editar.php:48
+#: public/admin/documentos/audiovisuais/editar/editar.php:254
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:171
+#: public/admin/documentos/biblioteca/editar/editar.php:263
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:167
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:260
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:189
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:282
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:177
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:270
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:160
+#: public/admin/documentos/correspondencia/editar/editar.php:253
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:158
+#: public/admin/documentos/esbocos-notas/editar/editar.php:251
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:160
+#: public/admin/documentos/historia-editorial/editar/editar.php:254
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:155
+#: public/admin/documentos/ilustracoes/editar/editar.php:248
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:174
+#: public/admin/documentos/memorabilia/editar/editar.php:267
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:155
+#: public/admin/documentos/objetos-arte/editar/editar.php:248
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:177
+#: public/admin/documentos/obra-literaria/editar/editar.php:268
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:158
+#: public/admin/documentos/obra/editar/editar.php:250
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:170
+#: public/admin/documentos/originais/editar/editar.php:263
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:172
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:264
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:161
+#: public/admin/documentos/vida/editar/editar.php:253
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:30
+#: public/admin/fatos_historicos/editar/editar.php:42
+#: public/admin/fontes/cadastrar/cadastrar.php:26
+#: public/admin/fontes/editar/editar.php:38
+#: public/admin/usuarios/editar/editar.php:74
+#: public/contas/cadastrar/cadastrar.php:47 public/contas/editar/editar.php:111
+msgid "Campos obrigatórios"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:178
+msgid "Autor cadastrado com sucesso"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:179
+msgid "Novo cadastro"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:179
+msgid "Editar autor cadastrado"
+msgstr ""
+
+#: public/admin/autores/cadastrar/cadastrar.php:184
+#: public/admin/autores/editar/editar.php:281
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:64
+#: public/admin/criticas/autor/editar/editar.php:72
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:62
+#: public/admin/criticas/obra/editar/editar.php:73
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:55
+#: public/admin/fatos_historicos/editar/editar.php:67
+#: public/admin/fontes/cadastrar/cadastrar.php:51
+#: public/admin/fontes/editar/editar.php:63
+#: public/admin/usuarios/editar/editar.php:99
+#: public/contas/cadastrar/cadastrar.php:95 public/contas/editar/editar.php:150
+msgid "Verifique o(s) campo(s) com problema(s)"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:11
+#: public/admin/criticas/autor/editar/editar.php:9
+#: public/admin/criticas/obra/editar/editar.php:9
+#: public/admin/documentos/audiovisuais/editar/editar.php:10
+#: public/admin/documentos/biblioteca/editar/editar.php:10
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:10
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:10
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:10
+#: public/admin/documentos/correspondencia/editar/editar.php:10
+#: public/admin/documentos/esbocos-notas/editar/editar.php:10
+#: public/admin/documentos/historia-editorial/editar/editar.php:10
+#: public/admin/documentos/ilustracoes/editar/editar.php:10
+#: public/admin/documentos/memorabilia/editar/editar.php:10
+#: public/admin/documentos/objetos-arte/editar/editar.php:10
+#: public/admin/documentos/obra-literaria/editar/editar.php:10
+#: public/admin/documentos/obra/editar/editar.php:10
+#: public/admin/documentos/originais/editar/editar.php:10
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:10
+#: public/admin/documentos/vida/editar/editar.php:10
+#: public/admin/fatos_historicos/editar/editar.php:9
+#: public/admin/fontes/editar/editar.php:9
+#: public/admin/usuarios/editar/editar.php:9 public/autores/autores.php:85
+#: public/criticas/autor/criticas.php:27 public/criticas/autor/midias.php:25
+#: public/criticas/obra/criticas.php:25 public/criticas/obra/midias.php:25
+#: public/documentos/documentos.php:94 public/documentos/documentos_new.php:90
+#: public/documentos/midias.php:34
+msgid "ID não especificado"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:18
+#: public/admin/criticas/autor/editar/editar.php:14
+#: public/admin/criticas/obra/editar/editar.php:15
+#: public/admin/documentos/audiovisuais/editar/editar.php:15
+#: public/admin/documentos/biblioteca/editar/editar.php:15
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:15
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:15
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:15
+#: public/admin/documentos/correspondencia/editar/editar.php:15
+#: public/admin/documentos/esbocos-notas/editar/editar.php:15
+#: public/admin/documentos/historia-editorial/editar/editar.php:15
+#: public/admin/documentos/ilustracoes/editar/editar.php:15
+#: public/admin/documentos/memorabilia/editar/editar.php:15
+#: public/admin/documentos/objetos-arte/editar/editar.php:15
+#: public/admin/documentos/obra-literaria/editar/editar.php:15
+#: public/admin/documentos/obra/editar/editar.php:15
+#: public/admin/documentos/originais/editar/editar.php:15
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:15
+#: public/admin/documentos/vida/editar/editar.php:15
+#: public/admin/fatos_historicos/editar/editar.php:14
+#: public/admin/fontes/editar/editar.php:14
+#: public/admin/usuarios/editar/editar.php:14
+msgid "Registro não encontrado. ID inválido"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:35
+msgid "Editar autor"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:43
+msgid "Pseud&#244;nimo"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:52
+msgid "S&eacute;culo de Nascimento"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:88
+msgid "Indique o Estado/Região de Nascimento"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:110
+msgid "S&eacute;culo da Morte"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:146
+msgid "Indique o Estado/Região de Falecimento"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:193
+#: public/admin/criticas/autor/editar/editar.php:41
+#: public/admin/criticas/obra/editar/editar.php:42
+msgid "Salvar"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:204 public/autores/autores.php:224
+msgid "Obras do autor"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:208
+#: public/admin/criticas/autor/autor.php:18
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:17
+#: public/admin/criticas/autor/editar/editar.php:28
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:17
+#: public/admin/criticas/obra/editar/editar.php:29
+#: public/admin/criticas/obra/obra.php:18
+#: public/admin/documentos/audiovisuais/audiovisuais.php:18
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:26
+#: public/admin/documentos/audiovisuais/editar/editar.php:43
+#: public/admin/documentos/audiovisuais/editar/editar.php:229
+#: public/admin/documentos/biblioteca/biblioteca.php:18
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:25
+#: public/admin/documentos/biblioteca/editar/editar.php:43
+#: public/admin/documentos/biblioteca/editar/editar.php:238
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:25
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:18
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:42
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:235
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:25
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:18
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:42
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:257
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:25
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:18
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:42
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:245
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:25
+#: public/admin/documentos/correspondencia/correspondencia.php:18
+#: public/admin/documentos/correspondencia/editar/editar.php:42
+#: public/admin/documentos/correspondencia/editar/editar.php:228
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:25
+#: public/admin/documentos/esbocos-notas/editar/editar.php:42
+#: public/admin/documentos/esbocos-notas/editar/editar.php:226
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:18
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:25
+#: public/admin/documentos/historia-editorial/editar/editar.php:43
+#: public/admin/documentos/historia-editorial/editar/editar.php:229
+#: public/admin/documentos/historia-editorial/historia-editorial.php:18
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:25
+#: public/admin/documentos/ilustracoes/editar/editar.php:42
+#: public/admin/documentos/ilustracoes/editar/editar.php:223
+#: public/admin/documentos/ilustracoes/ilustracoes.php:18
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:25
+#: public/admin/documentos/memorabilia/editar/editar.php:42
+#: public/admin/documentos/memorabilia/editar/editar.php:242
+#: public/admin/documentos/memorabilia/memorabilia.php:13
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:25
+#: public/admin/documentos/objetos-arte/editar/editar.php:42
+#: public/admin/documentos/objetos-arte/editar/editar.php:223
+#: public/admin/documentos/objetos-arte/objetos-arte.php:18
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:28
+#: public/admin/documentos/obra-literaria/editar/editar.php:48
+#: public/admin/documentos/obra-literaria/editar/editar.php:243
+#: public/admin/documentos/obra-literaria/obra-literaria.php:18
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:25
+#: public/admin/documentos/obra/editar/editar.php:42
+#: public/admin/documentos/obra/editar/editar.php:225
+#: public/admin/documentos/obra/obra.php:13
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:25
+#: public/admin/documentos/originais/editar/editar.php:42
+#: public/admin/documentos/originais/editar/editar.php:238
+#: public/admin/documentos/originais/originais.php:13
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:25
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:41
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:239
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:18
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:25
+#: public/admin/documentos/vida/editar/editar.php:228
+#: public/admin/documentos/vida/vida.php:13 public/autores/autores.php:233
+#: public/autores/autores.php:284 public/autores/autores.php:340
+#: public/busca/conteudo/resultados.php:66
+#: public/busca/documento/documento.php:26
+#: public/busca/simples/resultados.php:37 public/criticas/autor/criticas.php:40
+#: public/criticas/autor/midias.php:40 public/criticas/obra/criticas.php:38
+#: public/criticas/obra/midias.php:40 public/documentos/documentos.php:107
+#: public/documentos/documentos.php:541 public/documentos/documentos.php:598
+#: public/documentos/documentos_new.php:103
+#: public/documentos/documentos_new.php:492
+#: public/documentos/documentos_new.php:549 public/documentos/midias.php:47
+#: public/recomendacao/recomendacao.php:13
+msgid "Título"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:209 public/autores/autores.php:234
+#: public/busca/conteudo/resultados.php:68
+#: public/busca/documento/documento.php:37
+#: public/busca/documento/resultados.php:20
+#: public/busca/simples/resultados.php:39 public/documentos/documentos.php:173
+#: public/documentos/documentos_new.php:169
+#: public/navegacao/acervo/resultados.php:46
+#: public/navegacao/documento/resultados.php:41
+#: public/recomendacao/recomendacao.php:15
+#: public/recomendacoes/recomendacoes.php:32
+msgid "Tipo"
+msgstr ""
+
+#: public/admin/autores/editar/editar.php:276
+msgid "Autor atualizado com sucesso"
+msgstr ""
+
+#: public/admin/comentarios/autor/autor.php:18
+#: public/admin/comentarios/documento/documento.php:18
+msgid "Data"
+msgstr ""
+
+#: public/admin/comentarios/autor/autor.php:20
+#: public/admin/comentarios/documento/documento.php:20
+msgid "Título do comentário"
+msgstr ""
+
+#: public/admin/comentarios/autor/autor.php:21
+#: public/admin/comentarios/documento/documento.php:21
+msgid "Autor do comentário"
+msgstr ""
+
+#: public/admin/comentarios/autor/autor.php:22
+#: public/admin/comentarios/documento/documento.php:22
+msgid "Votos"
+msgstr ""
+
+#: public/admin/comentarios/denuncias/denuncias.php:18
+msgid "Título comentário"
+msgstr ""
+
+#: public/admin/comentarios/denuncias/denuncias.php:19
+msgid "Motivo"
+msgstr ""
+
+#: public/admin/comentarios/denuncias/denuncias.php:20
+msgid "Autor da denúncia"
+msgstr ""
+
+#: public/admin/criticas/autor/autor.php:19
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:24
+#: public/admin/criticas/autor/editar/editar.php:33
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:24
+#: public/admin/criticas/obra/editar/editar.php:34
+#: public/admin/criticas/obra/obra.php:19 public/autores/autores.php:285
+#: public/criticas/autor/criticas.php:50 public/criticas/obra/criticas.php:48
+#: public/documentos/documentos.php:542
+#: public/documentos/documentos_new.php:493
+msgid "Autor da crítica"
+msgstr ""
+
+#: public/admin/criticas/autor/autor.php:21
+#: public/admin/criticas/obra/obra.php:21
+#: public/admin/documentos/audiovisuais/editar/editar.php:222
+#: public/admin/documentos/biblioteca/editar/editar.php:231
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:228
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:250
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:238
+#: public/admin/documentos/correspondencia/editar/editar.php:221
+#: public/admin/documentos/esbocos-notas/editar/editar.php:219
+#: public/admin/documentos/historia-editorial/editar/editar.php:222
+#: public/admin/documentos/ilustracoes/editar/editar.php:216
+#: public/admin/documentos/memorabilia/editar/editar.php:235
+#: public/admin/documentos/objetos-arte/editar/editar.php:216
+#: public/admin/documentos/obra-literaria/editar/editar.php:236
+#: public/admin/documentos/obra/editar/editar.php:218
+#: public/admin/documentos/originais/editar/editar.php:231
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:232
+#: public/admin/documentos/vida/editar/editar.php:221
+msgid "Arquivo"
+msgstr ""
+
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:10
+msgid "Cadastrar Crítica de Autor"
+msgstr ""
+
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:16
+msgid "Preencha os campos abaixo para cadastrar uma crítica a um autor"
+msgstr ""
+
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:28
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:28
+msgid "Mídia"
+msgstr ""
+
+#: public/admin/criticas/autor/cadastrar/cadastrar.php:59
+msgid "Crítica cadastrada com sucesso"
+msgstr ""
+
+#: public/admin/criticas/autor/editar/editar.php:22
+#: public/admin/criticas/obra/editar/editar.php:23
+msgid "Editar Crítica à Obra"
+msgstr ""
+
+#: public/admin/criticas/autor/editar/editar.php:37
+#: public/admin/criticas/obra/editar/editar.php:38
+#: public/admin/documentos/audiovisuais/audiovisuais.php:20
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:160
+#: public/admin/documentos/audiovisuais/editar/editar.php:213
+#: public/admin/documentos/biblioteca/biblioteca.php:20
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:160
+#: public/admin/documentos/biblioteca/editar/editar.php:222
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:156
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:20
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:219
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:178
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:20
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:241
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:166
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:20
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:229
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:149
+#: public/admin/documentos/correspondencia/correspondencia.php:20
+#: public/admin/documentos/correspondencia/editar/editar.php:212
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:147
+#: public/admin/documentos/esbocos-notas/editar/editar.php:210
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:20
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:149
+#: public/admin/documentos/historia-editorial/editar/editar.php:213
+#: public/admin/documentos/historia-editorial/historia-editorial.php:20
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:144
+#: public/admin/documentos/ilustracoes/editar/editar.php:207
+#: public/admin/documentos/ilustracoes/ilustracoes.php:20
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:163
+#: public/admin/documentos/memorabilia/editar/editar.php:226
+#: public/admin/documentos/memorabilia/memorabilia.php:15
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:144
+#: public/admin/documentos/objetos-arte/editar/editar.php:207
+#: public/admin/documentos/objetos-arte/objetos-arte.php:20
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:166
+#: public/admin/documentos/obra-literaria/editar/editar.php:227
+#: public/admin/documentos/obra-literaria/obra-literaria.php:20
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:147
+#: public/admin/documentos/obra/editar/editar.php:209
+#: public/admin/documentos/obra/obra.php:15
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:159
+#: public/admin/documentos/originais/editar/editar.php:222
+#: public/admin/documentos/originais/originais.php:15
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:161
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:223
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:20
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:150
+#: public/admin/documentos/vida/editar/editar.php:41
+#: public/admin/documentos/vida/editar/editar.php:120
+#: public/admin/documentos/vida/editar/editar.php:212
+#: public/admin/documentos/vida/vida.php:15
+msgid "Mídias"
+msgstr ""
+
+#: public/admin/criticas/autor/editar/editar.php:67
+#: public/admin/criticas/obra/editar/editar.php:68
+msgid "Crítica atualizada com sucesso"
+msgstr ""
+
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:10
+msgid "Cadastrar Crítica de Obra"
+msgstr ""
+
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:16
+msgid "Preencha os campos abaixo para cadastrar uma crítica de uma obra"
+msgstr ""
+
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:19
+msgid "Obra Literaria"
+msgstr ""
+
+#: public/admin/criticas/obra/cadastrar/cadastrar.php:57
+msgid "Obra cadastrada com sucesso"
+msgstr ""
+
+#: public/admin/criticas/obra/obra.php:20
+#: public/admin/documentos/documentos.php:22
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:21
+#: public/admin/documentos/obra-literaria/editar/editar.php:38
+#: public/admin/documentos/obra-literaria/obra-literaria.php:10
+#: public/busca/documento/documento.php:40
+msgid "Obra Literária"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/audiovisuais.php:10
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:19
+#: public/admin/documentos/audiovisuais/editar/editar.php:36
+#: public/admin/documentos/documentos.php:9
+msgid "Audiovisuais"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/audiovisuais.php:19
+#: public/admin/documentos/biblioteca/biblioteca.php:19
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:19
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:19
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:19
+#: public/admin/documentos/correspondencia/correspondencia.php:19
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:19
+#: public/admin/documentos/historia-editorial/historia-editorial.php:19
+#: public/admin/documentos/ilustracoes/ilustracoes.php:19
+#: public/admin/documentos/memorabilia/memorabilia.php:14
+#: public/admin/documentos/objetos-arte/objetos-arte.php:19
+#: public/admin/documentos/obra-literaria/obra-literaria.php:19
+#: public/admin/documentos/obra/obra.php:14
+#: public/admin/documentos/originais/originais.php:14
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:19
+#: public/admin/documentos/vida/vida.php:14
+#: public/busca/documento/documento.php:32
+#: public/busca/documento/resultados.php:19
+#: public/busca/simples/resultados.php:38
+#: public/navegacao/acervo/resultados.php:45
+#: public/navegacao/documento/resultados.php:40
+msgid "Autor(es)"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:25
+#: public/admin/documentos/audiovisuais/editar/editar.php:42
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:24
+#: public/admin/documentos/biblioteca/editar/editar.php:42
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:24
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:41
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:24
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:41
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:24
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:41
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:24
+#: public/admin/documentos/correspondencia/editar/editar.php:41
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:24
+#: public/admin/documentos/esbocos-notas/editar/editar.php:41
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:24
+#: public/admin/documentos/historia-editorial/editar/editar.php:42
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:24
+#: public/admin/documentos/ilustracoes/editar/editar.php:41
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:24
+#: public/admin/documentos/memorabilia/editar/editar.php:41
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:24
+#: public/admin/documentos/objetos-arte/editar/editar.php:41
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:27
+#: public/admin/documentos/obra-literaria/editar/editar.php:47
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:24
+#: public/admin/documentos/obra/editar/editar.php:41
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:24
+#: public/admin/documentos/originais/editar/editar.php:41
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:24
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:40
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:24
+#: public/admin/documentos/vida/editar/editar.php:40
+msgid "Títulos"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:32
+#: public/admin/documentos/audiovisuais/editar/editar.php:49
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:32
+#: public/admin/documentos/biblioteca/editar/editar.php:49
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:31
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:48
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:31
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:48
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:32
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:48
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:31
+#: public/admin/documentos/correspondencia/editar/editar.php:48
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:31
+#: public/admin/documentos/esbocos-notas/editar/editar.php:48
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:31
+#: public/admin/documentos/historia-editorial/editar/editar.php:49
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:31
+#: public/admin/documentos/ilustracoes/editar/editar.php:48
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:31
+#: public/admin/documentos/memorabilia/editar/editar.php:48
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:31
+#: public/admin/documentos/objetos-arte/editar/editar.php:48
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:38
+#: public/admin/documentos/obra-literaria/editar/editar.php:58
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:31
+#: public/admin/documentos/obra/editar/editar.php:48
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:35
+#: public/admin/documentos/originais/editar/editar.php:52
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:31
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:47
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:31
+#: public/admin/documentos/vida/editar/editar.php:47
+msgid ""
+"Digite o nome do autor, selecione um dos resultados encontrados e clique no "
+"botão ao lado para adicioná-lo à lista"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:41
+#: public/admin/documentos/audiovisuais/editar/editar.php:68
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:42
+#: public/admin/documentos/biblioteca/editar/editar.php:68
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:40
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:67
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:40
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:67
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:42
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:68
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:40
+#: public/admin/documentos/correspondencia/editar/editar.php:67
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:40
+#: public/admin/documentos/esbocos-notas/editar/editar.php:67
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:40
+#: public/admin/documentos/historia-editorial/editar/editar.php:68
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:40
+#: public/admin/documentos/ilustracoes/editar/editar.php:67
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:40
+#: public/admin/documentos/memorabilia/editar/editar.php:67
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:40
+#: public/admin/documentos/objetos-arte/editar/editar.php:67
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:47
+#: public/admin/documentos/obra-literaria/editar/editar.php:77
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:40
+#: public/admin/documentos/obra/editar/editar.php:67
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:44
+#: public/admin/documentos/originais/editar/editar.php:71
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:40
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:66
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:40
+#: public/admin/documentos/vida/editar/editar.php:66
+#: public/busca/documento/documento.php:36
+msgid "Classificação"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:42
+#: public/admin/documentos/audiovisuais/editar/editar.php:69
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:43
+#: public/admin/documentos/biblioteca/editar/editar.php:69
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:41
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:68
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:41
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:68
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:43
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:69
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:41
+#: public/admin/documentos/correspondencia/editar/editar.php:68
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:41
+#: public/admin/documentos/esbocos-notas/editar/editar.php:68
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:41
+#: public/admin/documentos/historia-editorial/editar/editar.php:69
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:41
+#: public/admin/documentos/ilustracoes/editar/editar.php:68
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:41
+#: public/admin/documentos/memorabilia/editar/editar.php:68
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:41
+#: public/admin/documentos/objetos-arte/editar/editar.php:68
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:41
+#: public/admin/documentos/obra/editar/editar.php:68
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:45
+#: public/admin/documentos/originais/editar/editar.php:72
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:41
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:67
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:41
+#: public/admin/documentos/vida/editar/editar.php:67
+#: public/busca/documento/documento.php:68 public/documentos/documentos.php:180
+#: public/documentos/documentos_new.php:176
+msgid "Categoria"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:58
+#: public/admin/documentos/audiovisuais/editar/editar.php:84
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:58
+#: public/admin/documentos/biblioteca/editar/editar.php:85
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:56
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:84
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:56
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:84
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:58
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:85
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:56
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:56
+#: public/admin/documentos/esbocos-notas/editar/editar.php:84
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:56
+#: public/admin/documentos/historia-editorial/editar/editar.php:85
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:56
+#: public/admin/documentos/ilustracoes/editar/editar.php:84
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:56
+#: public/admin/documentos/memorabilia/editar/editar.php:84
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:56
+#: public/admin/documentos/objetos-arte/editar/editar.php:84
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:48
+#: public/admin/documentos/obra-literaria/editar/editar.php:78
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:56
+#: public/admin/documentos/obra/editar/editar.php:84
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:60
+#: public/admin/documentos/originais/editar/editar.php:88
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:56
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:83
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:56
+#: public/admin/documentos/vida/editar/editar.php:83
+msgid "Gênero literário"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:80
+#: public/admin/documentos/audiovisuais/editar/editar.php:115
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:79
+#: public/admin/documentos/biblioteca/editar/editar.php:116
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:77
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:115
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:76
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:115
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:78
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:116
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:76
+#: public/admin/documentos/correspondencia/editar/editar.php:115
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:76
+#: public/admin/documentos/esbocos-notas/editar/editar.php:115
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:76
+#: public/admin/documentos/historia-editorial/editar/editar.php:116
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:76
+#: public/admin/documentos/ilustracoes/editar/editar.php:115
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:76
+#: public/admin/documentos/memorabilia/editar/editar.php:115
+#: public/admin/documentos/objetos-arte/editar/editar.php:115
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:68
+#: public/admin/documentos/obra-literaria/editar/editar.php:109
+#: public/admin/documentos/obra/editar/editar.php:115
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:80
+#: public/admin/documentos/originais/editar/editar.php:119
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:76
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:114
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:76
+#: public/admin/documentos/vida/editar/editar.php:114
+msgid "Datas"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:81
+#: public/admin/documentos/audiovisuais/editar/editar.php:116
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:80
+#: public/admin/documentos/biblioteca/editar/editar.php:117
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:78
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:116
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:77
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:116
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:79
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:117
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:77
+#: public/admin/documentos/correspondencia/editar/editar.php:116
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:77
+#: public/admin/documentos/esbocos-notas/editar/editar.php:116
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:77
+#: public/admin/documentos/historia-editorial/editar/editar.php:117
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:77
+#: public/admin/documentos/ilustracoes/editar/editar.php:116
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:77
+#: public/admin/documentos/memorabilia/editar/editar.php:116
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:77
+#: public/admin/documentos/objetos-arte/editar/editar.php:116
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:78
+#: public/admin/documentos/obra/editar/editar.php:116
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:81
+#: public/admin/documentos/originais/editar/editar.php:120
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:77
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:115
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:77
+#: public/admin/documentos/vida/editar/editar.php:115
+#: public/documentos/documentos.php:151 public/documentos/documentos.php:156
+#: public/documentos/documentos_new.php:147
+#: public/documentos/documentos_new.php:152
+msgid "Ano de produção"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:85
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:88
+#: public/admin/documentos/audiovisuais/editar/editar.php:120
+#: public/admin/documentos/audiovisuais/editar/editar.php:123
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:84
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:87
+#: public/admin/documentos/biblioteca/editar/editar.php:121
+#: public/admin/documentos/biblioteca/editar/editar.php:124
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:82
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:85
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:120
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:123
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:81
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:84
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:120
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:123
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:83
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:86
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:121
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:124
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:81
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:84
+#: public/admin/documentos/correspondencia/editar/editar.php:120
+#: public/admin/documentos/correspondencia/editar/editar.php:123
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:81
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:84
+#: public/admin/documentos/esbocos-notas/editar/editar.php:120
+#: public/admin/documentos/esbocos-notas/editar/editar.php:123
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:81
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:84
+#: public/admin/documentos/historia-editorial/editar/editar.php:121
+#: public/admin/documentos/historia-editorial/editar/editar.php:124
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:81
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:84
+#: public/admin/documentos/ilustracoes/editar/editar.php:120
+#: public/admin/documentos/ilustracoes/editar/editar.php:123
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:81
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:84
+#: public/admin/documentos/memorabilia/editar/editar.php:120
+#: public/admin/documentos/memorabilia/editar/editar.php:123
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:81
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:84
+#: public/admin/documentos/objetos-arte/editar/editar.php:120
+#: public/admin/documentos/objetos-arte/editar/editar.php:123
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:82
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:85
+#: public/admin/documentos/obra/editar/editar.php:120
+#: public/admin/documentos/obra/editar/editar.php:123
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:85
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:88
+#: public/admin/documentos/originais/editar/editar.php:124
+#: public/admin/documentos/originais/editar/editar.php:127
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:81
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:84
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:119
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:122
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:81
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:84
+#: public/admin/documentos/vida/editar/editar.php:119
+#: public/admin/documentos/vida/editar/editar.php:122
+#: public/documentos/documentos.php:140
+#: public/documentos/documentos_new.php:136
+msgid "Localização"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:86
+#: public/admin/documentos/audiovisuais/editar/editar.php:121
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:85
+#: public/admin/documentos/biblioteca/editar/editar.php:122
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:83
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:121
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:82
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:121
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:84
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:122
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:82
+#: public/admin/documentos/correspondencia/editar/editar.php:121
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:82
+#: public/admin/documentos/esbocos-notas/editar/editar.php:121
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:82
+#: public/admin/documentos/historia-editorial/editar/editar.php:122
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:82
+#: public/admin/documentos/ilustracoes/editar/editar.php:121
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:82
+#: public/admin/documentos/memorabilia/editar/editar.php:121
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:82
+#: public/admin/documentos/objetos-arte/editar/editar.php:121
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:159
+#: public/admin/documentos/obra-literaria/editar/editar.php:220
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:83
+#: public/admin/documentos/obra/editar/editar.php:121
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:86
+#: public/admin/documentos/originais/editar/editar.php:125
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:82
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:120
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:82
+#: public/navegacao/navegacao.php:8
+msgid "Acervo"
+msgstr "Collection"
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:90
+#: public/admin/documentos/audiovisuais/editar/editar.php:125
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:89
+#: public/admin/documentos/biblioteca/editar/editar.php:126
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:87
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:125
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:86
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:125
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:88
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:126
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:86
+#: public/admin/documentos/correspondencia/editar/editar.php:125
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:86
+#: public/admin/documentos/esbocos-notas/editar/editar.php:125
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:86
+#: public/admin/documentos/historia-editorial/editar/editar.php:126
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:86
+#: public/admin/documentos/ilustracoes/editar/editar.php:125
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:86
+#: public/admin/documentos/memorabilia/editar/editar.php:125
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:86
+#: public/admin/documentos/objetos-arte/editar/editar.php:125
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:87
+#: public/admin/documentos/obra/editar/editar.php:125
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:90
+#: public/admin/documentos/originais/editar/editar.php:129
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:86
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:124
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:86
+#: public/admin/documentos/vida/editar/editar.php:124
+msgid "Estado de conservação"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:93
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:92
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:90
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:89
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:91
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:89
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:89
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:89
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:89
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:89
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:89
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:90
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:93
+#: public/admin/documentos/originais/editar/editar.php:133
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:89
+#: public/admin/documentos/vida/editar/editar.php:128
+msgid "Muito bom"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:94
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:93
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:91
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:90
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:92
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:90
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:90
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:90
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:90
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:90
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:90
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:91
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:94
+#: public/admin/documentos/originais/editar/editar.php:135
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:90
+#: public/admin/documentos/vida/editar/editar.php:130
+msgid "Bom"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:95
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:94
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:92
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:91
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:93
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:91
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:91
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:91
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:91
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:91
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:91
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:92
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:95
+#: public/admin/documentos/originais/editar/editar.php:137
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:91
+#: public/admin/documentos/vida/editar/editar.php:132
+msgid "Regular"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:96
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:95
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:93
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:92
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:94
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:92
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:92
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:92
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:92
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:92
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:92
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:93
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:96
+#: public/admin/documentos/originais/editar/editar.php:139
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:92
+#: public/admin/documentos/vida/editar/editar.php:134
+msgid "Péssimo"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:111
+#: public/admin/documentos/audiovisuais/editar/editar.php:158
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:108
+#: public/admin/documentos/biblioteca/editar/editar.php:159
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:106
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:158
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:105
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:158
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:107
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:159
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:105
+#: public/admin/documentos/correspondencia/editar/editar.php:158
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:105
+#: public/admin/documentos/esbocos-notas/editar/editar.php:158
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:105
+#: public/admin/documentos/historia-editorial/editar/editar.php:159
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:105
+#: public/admin/documentos/ilustracoes/editar/editar.php:158
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:105
+#: public/admin/documentos/memorabilia/editar/editar.php:158
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:105
+#: public/admin/documentos/objetos-arte/editar/editar.php:158
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:134
+#: public/admin/documentos/obra-literaria/editar/editar.php:185
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:106
+#: public/admin/documentos/obra/editar/editar.php:158
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:109
+#: public/admin/documentos/originais/editar/editar.php:162
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:105
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:157
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:105
+#: public/admin/documentos/vida/editar/editar.php:157
+#: public/admin/idiomas/idiomas.php:7 public/documentos/documentos.php:262
+msgid "Idiomas"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:135
+#: public/admin/documentos/audiovisuais/editar/editar.php:189
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:128
+#: public/admin/documentos/biblioteca/editar/editar.php:190
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:126
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:189
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:125
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:189
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:127
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:190
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:126
+#: public/admin/documentos/correspondencia/editar/editar.php:189
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:126
+#: public/admin/documentos/esbocos-notas/editar/editar.php:189
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:126
+#: public/admin/documentos/historia-editorial/editar/editar.php:190
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:126
+#: public/admin/documentos/ilustracoes/editar/editar.php:189
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:126
+#: public/admin/documentos/memorabilia/editar/editar.php:189
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:126
+#: public/admin/documentos/objetos-arte/editar/editar.php:189
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:127
+#: public/admin/documentos/obra/editar/editar.php:189
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:130
+#: public/admin/documentos/originais/editar/editar.php:193
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:126
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:188
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:126
+#: public/admin/documentos/vida/editar/editar.php:188
+msgid "Código do material"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:137
+#: public/admin/documentos/audiovisuais/editar/editar.php:191
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:130
+#: public/admin/documentos/biblioteca/editar/editar.php:192
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:128
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:191
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:127
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:191
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:129
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:192
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:128
+#: public/admin/documentos/correspondencia/editar/editar.php:191
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:128
+#: public/admin/documentos/esbocos-notas/editar/editar.php:191
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:128
+#: public/admin/documentos/historia-editorial/editar/editar.php:192
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:128
+#: public/admin/documentos/ilustracoes/editar/editar.php:191
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:128
+#: public/admin/documentos/memorabilia/editar/editar.php:191
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:128
+#: public/admin/documentos/objetos-arte/editar/editar.php:191
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:130
+#: public/admin/documentos/obra-literaria/editar/editar.php:181
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:129
+#: public/admin/documentos/obra/editar/editar.php:191
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:132
+#: public/admin/documentos/originais/editar/editar.php:195
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:128
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:190
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:128
+#: public/admin/documentos/vida/editar/editar.php:190
+#: public/busca/documento/documento.php:121
+#: public/documentos/documentos.php:216
+#: public/documentos/documentos_new.php:189
+msgid "Editora"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:139
+#: public/admin/documentos/audiovisuais/editar/editar.php:193
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:132
+#: public/admin/documentos/biblioteca/editar/editar.php:194
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:130
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:193
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:129
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:193
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:131
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:194
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:130
+#: public/admin/documentos/correspondencia/editar/editar.php:193
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:130
+#: public/admin/documentos/esbocos-notas/editar/editar.php:193
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:130
+#: public/admin/documentos/historia-editorial/editar/editar.php:194
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:130
+#: public/admin/documentos/ilustracoes/editar/editar.php:193
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:130
+#: public/admin/documentos/memorabilia/editar/editar.php:193
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:130
+#: public/admin/documentos/objetos-arte/editar/editar.php:193
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:132
+#: public/admin/documentos/obra-literaria/editar/editar.php:183
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:131
+#: public/admin/documentos/obra/editar/editar.php:193
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:134
+#: public/admin/documentos/originais/editar/editar.php:197
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:130
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:192
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:130
+#: public/admin/documentos/vida/editar/editar.php:192
+msgid "Local da Editora"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:142
+#: public/admin/documentos/audiovisuais/editar/editar.php:196
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:135
+#: public/admin/documentos/biblioteca/editar/editar.php:198
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:133
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:196
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:132
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:196
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:134
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:197
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:133
+#: public/admin/documentos/correspondencia/editar/editar.php:196
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:133
+#: public/admin/documentos/esbocos-notas/editar/editar.php:196
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:133
+#: public/admin/documentos/historia-editorial/editar/editar.php:197
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:133
+#: public/admin/documentos/ilustracoes/editar/editar.php:196
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:133
+#: public/admin/documentos/memorabilia/editar/editar.php:196
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:133
+#: public/admin/documentos/objetos-arte/editar/editar.php:196
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:133
+#: public/admin/documentos/obra/editar/editar.php:195
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:138
+#: public/admin/documentos/originais/editar/editar.php:201
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:133
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:195
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:132
+#: public/admin/documentos/vida/editar/editar.php:194
+#: public/documentos/documentos.php:130
+#: public/documentos/documentos_new.php:126
+msgid "Abrangência"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:144
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:137
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:135
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:134
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:136
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:135
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:135
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:135
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:135
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:135
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:135
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:135
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:140
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:135
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:134
+msgid "Direitos autorais"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:146
+#: public/admin/documentos/audiovisuais/editar/editar.php:200
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:139
+#: public/admin/documentos/biblioteca/editar/editar.php:202
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:137
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:200
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:136
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:200
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:138
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:201
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:137
+#: public/admin/documentos/correspondencia/editar/editar.php:200
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:137
+#: public/admin/documentos/esbocos-notas/editar/editar.php:200
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:137
+#: public/admin/documentos/historia-editorial/editar/editar.php:201
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:137
+#: public/admin/documentos/ilustracoes/editar/editar.php:200
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:137
+#: public/admin/documentos/memorabilia/editar/editar.php:200
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:137
+#: public/admin/documentos/objetos-arte/editar/editar.php:200
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:137
+#: public/admin/documentos/obra/editar/editar.php:199
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:143
+#: public/admin/documentos/originais/editar/editar.php:206
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:137
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:199
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:136
+#: public/admin/documentos/vida/editar/editar.php:198
+#: public/documentos/documentos.php:167
+#: public/documentos/documentos_new.php:163
+msgid "Dimensão"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:149
+#: public/admin/documentos/audiovisuais/editar/editar.php:202
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:142
+#: public/admin/documentos/biblioteca/editar/editar.php:204
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:139
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:202
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:141
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:204
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:150
+#: public/admin/documentos/originais/editar/editar.php:213
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:140
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:202
+#: public/documentos/documentos.php:313
+#: public/documentos/documentos_new.php:264
+msgid "Volume"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:151
+#: public/admin/documentos/audiovisuais/editar/editar.php:204
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:146
+#: public/admin/documentos/biblioteca/editar/editar.php:208
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:142
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:205
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:146
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:209
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:145
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:208
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:147
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:209
+#: public/documentos/documentos.php:318
+#: public/documentos/documentos_new.php:269
+msgid "Local de publicação"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:153
+#: public/admin/documentos/audiovisuais/editar/editar.php:206
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:149
+#: public/admin/documentos/biblioteca/editar/editar.php:211
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:144
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:207
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:148
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:211
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:148
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:211
+#: public/documentos/documentos.php:323
+#: public/documentos/documentos_new.php:274
+msgid "Edição"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/cadastrar/cadastrar.php:171
+msgid " Campos obrigatórios"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:37
+#: public/admin/documentos/biblioteca/editar/editar.php:37
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:36
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:36
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:36
+#: public/admin/documentos/correspondencia/editar/editar.php:36
+#: public/admin/documentos/esbocos-notas/editar/editar.php:36
+#: public/admin/documentos/historia-editorial/editar/editar.php:37
+#: public/admin/documentos/ilustracoes/editar/editar.php:36
+#: public/admin/documentos/memorabilia/editar/editar.php:36
+#: public/admin/documentos/objetos-arte/editar/editar.php:36
+#: public/admin/documentos/obra-literaria/editar/editar.php:39
+#: public/admin/documentos/obra/editar/editar.php:36
+#: public/admin/documentos/originais/editar/editar.php:36
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:35
+#: public/admin/documentos/vida/editar/editar.php:35
+msgid "Editar"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:198
+#: public/admin/documentos/biblioteca/editar/editar.php:200
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:198
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:198
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:199
+#: public/admin/documentos/correspondencia/editar/editar.php:198
+#: public/admin/documentos/esbocos-notas/editar/editar.php:198
+#: public/admin/documentos/historia-editorial/editar/editar.php:199
+#: public/admin/documentos/ilustracoes/editar/editar.php:198
+#: public/admin/documentos/memorabilia/editar/editar.php:198
+#: public/admin/documentos/objetos-arte/editar/editar.php:198
+#: public/admin/documentos/obra/editar/editar.php:197
+#: public/admin/documentos/originais/editar/editar.php:203
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:197
+#: public/admin/documentos/vida/editar/editar.php:196
+msgid "Direitos autorias"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:223
+#: public/admin/documentos/biblioteca/editar/editar.php:232
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:229
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:251
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:239
+#: public/admin/documentos/correspondencia/editar/editar.php:222
+#: public/admin/documentos/esbocos-notas/editar/editar.php:220
+#: public/admin/documentos/historia-editorial/editar/editar.php:223
+#: public/admin/documentos/ilustracoes/editar/editar.php:217
+#: public/admin/documentos/memorabilia/editar/editar.php:236
+#: public/admin/documentos/objetos-arte/editar/editar.php:217
+#: public/admin/documentos/obra-literaria/editar/editar.php:237
+#: public/admin/documentos/obra/editar/editar.php:219
+#: public/admin/documentos/originais/editar/editar.php:232
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:233
+#: public/admin/documentos/vida/editar/editar.php:222
+msgid "Remover"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:224
+#: public/admin/documentos/biblioteca/editar/editar.php:233
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:230
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:252
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:240
+#: public/admin/documentos/correspondencia/editar/editar.php:223
+#: public/admin/documentos/esbocos-notas/editar/editar.php:221
+#: public/admin/documentos/historia-editorial/editar/editar.php:224
+#: public/admin/documentos/ilustracoes/editar/editar.php:218
+#: public/admin/documentos/memorabilia/editar/editar.php:237
+#: public/admin/documentos/objetos-arte/editar/editar.php:218
+#: public/admin/documentos/obra-literaria/editar/editar.php:238
+#: public/admin/documentos/obra/editar/editar.php:220
+#: public/admin/documentos/originais/editar/editar.php:233
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:234
+#: public/admin/documentos/vida/editar/editar.php:223
+msgid "Clique aqui para visualizar o documento"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:226
+#: public/admin/documentos/biblioteca/editar/editar.php:235
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:232
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:254
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:242
+#: public/admin/documentos/correspondencia/editar/editar.php:225
+#: public/admin/documentos/esbocos-notas/editar/editar.php:223
+#: public/admin/documentos/historia-editorial/editar/editar.php:226
+#: public/admin/documentos/ilustracoes/editar/editar.php:220
+#: public/admin/documentos/memorabilia/editar/editar.php:239
+#: public/admin/documentos/objetos-arte/editar/editar.php:220
+#: public/admin/documentos/obra-literaria/editar/editar.php:240
+#: public/admin/documentos/obra/editar/editar.php:222
+#: public/admin/documentos/originais/editar/editar.php:235
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:236
+#: public/admin/documentos/vida/editar/editar.php:225
+msgid "Substituir arquivo"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:231
+#: public/admin/documentos/biblioteca/editar/editar.php:240
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:237
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:259
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:247
+#: public/admin/documentos/correspondencia/editar/editar.php:230
+#: public/admin/documentos/esbocos-notas/editar/editar.php:228
+#: public/admin/documentos/historia-editorial/editar/editar.php:231
+#: public/admin/documentos/ilustracoes/editar/editar.php:225
+#: public/admin/documentos/memorabilia/editar/editar.php:244
+#: public/admin/documentos/objetos-arte/editar/editar.php:225
+#: public/admin/documentos/obra-literaria/editar/editar.php:245
+#: public/admin/documentos/obra/editar/editar.php:227
+#: public/admin/documentos/originais/editar/editar.php:240
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:241
+#: public/admin/documentos/vida/editar/editar.php:230
+#: public/admin/fontes/fontes.php:14 public/admin/generos/generos.php:14
+#: public/admin/idiomas/idiomas.php:14 public/busca/autor/autor.php:156
+#: public/busca/documento/documento.php:125
+msgid "Fonte"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:246
+#: public/admin/documentos/biblioteca/editar/editar.php:255
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:252
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:274
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:262
+#: public/admin/documentos/correspondencia/editar/editar.php:245
+#: public/admin/documentos/esbocos-notas/editar/editar.php:243
+#: public/admin/documentos/historia-editorial/editar/editar.php:246
+#: public/admin/documentos/ilustracoes/editar/editar.php:240
+#: public/admin/documentos/memorabilia/editar/editar.php:259
+#: public/admin/documentos/objetos-arte/editar/editar.php:240
+#: public/admin/documentos/obra-literaria/editar/editar.php:260
+#: public/admin/documentos/obra/editar/editar.php:242
+#: public/admin/documentos/originais/editar/editar.php:255
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:256
+#: public/admin/documentos/vida/editar/editar.php:245
+msgid "Atualizar"
+msgstr ""
+
+#: public/admin/documentos/audiovisuais/editar/editar.php:247
+#: public/admin/documentos/biblioteca/editar/editar.php:256
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:253
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:275
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:263
+#: public/admin/documentos/correspondencia/editar/editar.php:246
+#: public/admin/documentos/esbocos-notas/editar/editar.php:244
+#: public/admin/documentos/historia-editorial/editar/editar.php:247
+#: public/admin/documentos/ilustracoes/editar/editar.php:241
+#: public/admin/documentos/memorabilia/editar/editar.php:260
+#: public/admin/documentos/objetos-arte/editar/editar.php:241
+#: public/admin/documentos/obra-literaria/editar/editar.php:261
+#: public/admin/documentos/obra/editar/editar.php:243
+#: public/admin/documentos/originais/editar/editar.php:256
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:257
+#: public/admin/documentos/vida/editar/editar.php:246
+msgid "Excluir"
+msgstr ""
+
+#: public/admin/documentos/biblioteca/biblioteca.php:10
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:18
+#: public/admin/documentos/biblioteca/editar/editar.php:36
+#: public/admin/documentos/documentos.php:10
+msgid "Biblioteca"
+msgstr ""
+
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:144
+#: public/admin/documentos/biblioteca/editar/editar.php:206
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:140
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:203
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:141
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:204
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:143
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:206
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:140
+#: public/admin/documentos/correspondencia/editar/editar.php:203
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:140
+#: public/admin/documentos/esbocos-notas/editar/editar.php:203
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:140
+#: public/admin/documentos/historia-editorial/editar/editar.php:204
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:140
+#: public/admin/documentos/memorabilia/editar/editar.php:203
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:152
+#: public/admin/documentos/originais/editar/editar.php:215
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:142
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:204
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:139
+#: public/admin/documentos/vida/editar/editar.php:201
+#: public/documentos/documentos.php:330
+#: public/documentos/documentos_new.php:281
+msgid "Número de páginas"
+msgstr ""
+
+#: public/admin/documentos/biblioteca/cadastrar/cadastrar.php:151
+#: public/admin/documentos/biblioteca/editar/editar.php:213
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:159
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:222
+#: public/documentos/documentos.php:335
+#: public/documentos/documentos_new.php:286
+msgid "Tradutor"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:18
+#: public/admin/documentos/comprovantes-adaptacoes/comprovantes-adaptacoes.php:10
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:35
+#: public/admin/documentos/documentos.php:11
+msgid "Comprovantes de Adaptações"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:147
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:210
+#: public/documentos/documentos.php:347
+#: public/documentos/documentos_new.php:298
+msgid "Comprovante"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-adaptacoes/cadastrar/cadastrar.php:149
+#: public/admin/documentos/comprovantes-adaptacoes/editar/editar.php:212
+#: public/documentos/documentos.php:352
+#: public/documentos/documentos_new.php:303
+msgid "Instituição"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:18
+#: public/admin/documentos/comprovantes-critica/comprovantes-critica.php:10
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:35
+#: public/admin/documentos/documentos.php:12
+msgid "Comprovantes de Crítica"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:143
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:206
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:144
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:206
+#: public/documentos/documentos.php:359
+#: public/documentos/documentos_new.php:310
+msgid "Artigo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:150
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:213
+msgid "Local da realização"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:153
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:216
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:150
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:213
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:154
+#: public/admin/documentos/memorabilia/editar/editar.php:217
+#: public/documentos/documentos.php:369
+#: public/documentos/documentos_new.php:320
+msgid "Organizador"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:155
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:218
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:156
+#: public/admin/documentos/memorabilia/editar/editar.php:219
+#: public/documentos/documentos.php:374 public/documentos/documentos.php:457
+#: public/documentos/documentos_new.php:325
+#: public/documentos/documentos_new.php:408
+msgid "Tipo de publicação"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:157
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:220
+#: public/documentos/documentos.php:379
+#: public/documentos/documentos_new.php:330
+msgid "Autor do capítulo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:160
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:223
+#: public/documentos/documentos.php:384
+#: public/documentos/documentos_new.php:335
+msgid "Título do capítulo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:162
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:225
+#: public/documentos/documentos.php:389
+#: public/documentos/documentos_new.php:340
+msgid "Página inicial do capítulo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:164
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:227
+#: public/documentos/documentos.php:394
+#: public/documentos/documentos_new.php:345
+msgid "Página final do capítulo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:167
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:230
+#: public/documentos/documentos.php:399
+#: public/documentos/documentos_new.php:350
+msgid "Página inicial do artigo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:169
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:232
+#: public/documentos/documentos.php:404
+#: public/documentos/documentos_new.php:355
+msgid "Página final do artigo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-critica/cadastrar/cadastrar.php:171
+#: public/admin/documentos/comprovantes-critica/editar/editar.php:234
+msgid "Nome do congresso"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:18
+#: public/admin/documentos/comprovantes-edicoes/comprovantes-edicoes.php:10
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:35
+#: public/admin/documentos/documentos.php:13
+msgid "Comprovantes de Edições"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:152
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:215
+msgid "Capítulo"
+msgstr ""
+
+#: public/admin/documentos/comprovantes-edicoes/cadastrar/cadastrar.php:157
+#: public/admin/documentos/comprovantes-edicoes/editar/editar.php:220
+#: public/documentos/documentos.php:421
+#: public/documentos/documentos_new.php:372
+msgid "Página final"
+msgstr ""
+
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:18
+#: public/admin/documentos/correspondencia/correspondencia.php:10
+#: public/admin/documentos/correspondencia/editar/editar.php:35
+#: public/admin/documentos/documentos.php:14
+msgid "Correspondência"
+msgstr ""
+
+#: public/admin/documentos/correspondencia/cadastrar/cadastrar.php:142
+#: public/admin/documentos/correspondencia/editar/editar.php:205
+#: public/documentos/documentos.php:428
+#: public/documentos/documentos_new.php:379
+msgid "Destinatário"
+msgstr ""
+
+#: public/admin/documentos/correspondencia/editar/editar.php:84
+msgid "Tipo de Correspondência"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:15
+#: public/admin/documentos/esbocos-notas/cadastrar/cadastrar.php:18
+#: public/admin/documentos/esbocos-notas/editar/editar.php:35
+#: public/admin/documentos/esbocos-notas/esbocos-notas.php:10
+msgid "Esboços e Notas"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:16
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:18
+#: public/admin/documentos/historia-editorial/editar/editar.php:36
+#: public/admin/documentos/historia-editorial/historia-editorial.php:10
+msgid "História Editorial"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:17
+#: public/admin/documentos/ilustracoes/cadastrar/cadastrar.php:18
+#: public/admin/documentos/ilustracoes/editar/editar.php:35
+#: public/admin/documentos/ilustracoes/ilustracoes.php:10
+msgid "Ilustrações"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:18
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:18
+#: public/admin/documentos/memorabilia/editar/editar.php:35
+#: public/admin/documentos/memorabilia/memorabilia.php:5
+msgid "Memorabilia"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:19
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:18
+#: public/admin/documentos/originais/editar/editar.php:35
+#: public/admin/documentos/originais/originais.php:5
+msgid "Originais"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:20
+#: public/admin/documentos/objetos-arte/cadastrar/cadastrar.php:18
+#: public/admin/documentos/objetos-arte/editar/editar.php:35
+#: public/admin/documentos/objetos-arte/objetos-arte.php:10
+msgid "Objetos de Arte"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:23
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:18
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:34
+#: public/admin/documentos/publicacoes-imprensa/publicacoes-imprensa.php:10
+msgid "Publicações na Imprensa"
+msgstr ""
+
+#: public/admin/documentos/documentos.php:24
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:18
+#: public/admin/documentos/vida/editar/editar.php:34
+#: public/admin/documentos/vida/vida.php:5
+msgid "Vida"
+msgstr ""
+
+#: public/admin/documentos/historia-editorial/cadastrar/cadastrar.php:142
+#: public/admin/documentos/historia-editorial/editar/editar.php:206
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:116
+#: public/admin/documentos/obra-literaria/editar/editar.php:157
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:147
+#: public/admin/documentos/originais/editar/editar.php:210
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:141
+#: public/admin/documentos/vida/editar/editar.php:203
+#: public/documentos/documentos.php:226 public/documentos/documentos.php:435
+#: public/documentos/documentos_new.php:199
+#: public/documentos/documentos_new.php:386
+msgid "Local"
+msgstr ""
+
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:142
+#: public/admin/documentos/memorabilia/editar/editar.php:205
+msgid "Local de produção"
+msgstr ""
+
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:144
+#: public/admin/documentos/memorabilia/editar/editar.php:207
+msgid "Número do livro de atas"
+msgstr ""
+
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:147
+#: public/admin/documentos/memorabilia/editar/editar.php:210
+msgid "Número do evento"
+msgstr ""
+
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:149
+#: public/admin/documentos/memorabilia/editar/editar.php:212
+msgid "Promotor"
+msgstr ""
+
+#: public/admin/documentos/memorabilia/cadastrar/cadastrar.php:151
+#: public/admin/documentos/memorabilia/editar/editar.php:214
+#: public/documentos/documentos.php:364
+#: public/documentos/documentos_new.php:315
+msgid "Local de realização"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:30
+#: public/admin/documentos/obra-literaria/editar/editar.php:50
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:27
+#: public/admin/documentos/originais/editar/editar.php:44
+#: public/documentos/documentos.php:281
+#: public/documentos/documentos_new.php:232
+msgid "Subtítulo"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:32
+#: public/admin/documentos/obra-literaria/editar/editar.php:52
+#: public/admin/documentos/originais/cadastrar/cadastrar.php:29
+#: public/admin/documentos/originais/editar/editar.php:46
+#: public/documentos/documentos.php:286
+#: public/documentos/documentos_new.php:237
+msgid "Título alternativo"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:69
+#: public/admin/documentos/obra-literaria/editar/editar.php:110
+msgid "Ano de produção (início)"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:71
+#: public/admin/documentos/obra-literaria/editar/editar.php:112
+msgid "Ano de produção (fim)"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:73
+#: public/admin/documentos/obra-literaria/editar/editar.php:114
+msgid "Ano de publicação (início)"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:75
+#: public/admin/documentos/obra-literaria/editar/editar.php:116
+msgid "Ano de publicação (fim)"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:78
+#: public/admin/documentos/obra-literaria/editar/editar.php:119
+msgid "Século de Produção"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:89
+#: public/admin/documentos/obra-literaria/editar/editar.php:130
+msgid "Século de Publicação"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:100
+#: public/admin/documentos/obra-literaria/editar/editar.php:141
+msgid "Século de Encenação"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:113
+#: public/admin/documentos/obra-literaria/editar/editar.php:154
+msgid "Encenação"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:114
+#: public/admin/documentos/obra-literaria/editar/editar.php:155
+#: public/autores/autores.php:236 public/busca/autor/autor.php:36
+#: public/busca/autor/autor.php:96 public/busca/documento/documento.php:78
+#: public/busca/documento/resultados.php:22
+#: public/busca/simples/resultados.php:41
+#: public/navegacao/acervo/resultados.php:48
+#: public/navegacao/documento/resultados.php:43
+#: public/recomendacoes/recomendacoes.php:33
+msgid "Ano"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:155
+#: public/admin/documentos/obra-literaria/editar/editar.php:216
+#: public/documentos/documentos.php:301
+#: public/documentos/documentos_new.php:252
+msgid "Personagens"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/cadastrar/cadastrar.php:157
+#: public/admin/documentos/obra-literaria/editar/editar.php:218
+#: public/documentos/documentos.php:306
+#: public/documentos/documentos_new.php:257
+msgid "Palavra-chave"
+msgstr ""
+
+#: public/admin/documentos/obra-literaria/index.php:124
+msgid "Mídia não encontrada"
+msgstr ""
+
+#: public/admin/documentos/obra/cadastrar/cadastrar.php:140
+#: public/admin/documentos/obra/editar/editar.php:202
+#: public/documentos/documentos.php:464
+#: public/documentos/documentos_new.php:415
+msgid "Sigla"
+msgstr ""
+
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:149
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:211
+#: public/documentos/documentos.php:478
+#: public/documentos/documentos_new.php:429
+msgid "Data inicial"
+msgstr ""
+
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:151
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:213
+#: public/documentos/documentos.php:483
+#: public/documentos/documentos_new.php:434
+msgid "Data final"
+msgstr ""
+
+#: public/admin/documentos/publicacoes-imprensa/cadastrar/cadastrar.php:154
+#: public/admin/documentos/publicacoes-imprensa/editar/editar.php:216
+#: public/documentos/documentos.php:488
+#: public/documentos/documentos_new.php:439
+msgid "Número do fascículo"
+msgstr ""
+
+#: public/admin/documentos/vida/cadastrar/cadastrar.php:143
+#: public/admin/documentos/vida/editar/editar.php:205
+#: public/documentos/documentos.php:495
+#: public/documentos/documentos_new.php:446
+msgid "Índice do assunto"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:15
+msgid "Período dos relatórios"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:25
+msgid "Uso do site"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:26
+#: public/admin/estatisticas/stats/visits_pageviews.php:35
+#: public/admin/estatisticas/stats/visits_pageviews.php:70
+msgid "Visitas"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:27
+msgid "Novas visitas"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:28
+msgid "Páginas exibidas"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:29
+msgid "Visitantes"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:30
+msgid "Visitas/Visitantes"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:31
+msgid "Páginas/Visita"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:32
+msgid "Tempo médio no site"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:36
+#: public/admin/estatisticas/stats/browser_usage.php:8
+#: public/admin/estatisticas/stats/top10_pageviews.php:8
+#: public/admin/estatisticas/stats/traffic_source.php:8
+#: public/admin/estatisticas/stats/visitors_new_returning.php:8
+#: public/admin/estatisticas/stats/visits_pageviews.php:8
+msgid "Não foi possivel obter os dados"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:48
+msgid "Visitas vs. Exibições de páginas"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:54
+msgid "10 páginas mais visualizadas"
+msgstr ""
+
+#: public/admin/estatisticas/estatisticas.php:60
+msgid "Visitantes novos vs. retornando"
+msgstr ""
+
+#: public/admin/estatisticas/stats/browser_usage.php:12
+#: public/admin/estatisticas/stats/top10_pageviews.php:12
+#: public/admin/estatisticas/stats/traffic_source.php:11
+#: public/admin/estatisticas/stats/visitors_new_returning.php:11
+#: public/admin/estatisticas/stats/visits_pageviews.php:11
+msgid "Dados indisponíveis no momento"
+msgstr ""
+
+#: public/admin/estatisticas/stats/browser_usage.php:25
+msgid "Navegadores"
+msgstr ""
+
+#: public/admin/estatisticas/stats/traffic_source.php:24
+msgid "Fonte de tráfego"
+msgstr ""
+
+#: public/admin/estatisticas/stats/visitors_new_returning.php:30
+msgid "Novos"
+msgstr ""
+
+#: public/admin/estatisticas/stats/visitors_new_returning.php:31
+msgid "Retornando"
+msgstr ""
+
+#: public/admin/estatisticas/stats/visitors_new_returning.php:38
+msgid "Percentual"
+msgstr ""
+
+#: public/admin/estatisticas/stats/visits_pageviews.php:45
+#: public/admin/estatisticas/stats/visits_pageviews.php:76
+msgid "Exibições de páginas"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:10
+msgid "Cadastrar fato"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:16
+msgid "Preencha os campos abaixo para incluir um fato histórico"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:17
+#: public/admin/fatos_historicos/editar/editar.php:29
+#: public/autores/autores.php:311 public/documentos/documentos.php:568
+#: public/documentos/documentos_new.php:519
+msgid "Ano do início"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:19
+#: public/admin/fatos_historicos/editar/editar.php:31
+#: public/autores/autores.php:312 public/documentos/documentos.php:569
+#: public/documentos/documentos_new.php:520
+msgid "Ano do fim"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:21
+#: public/admin/fatos_historicos/editar/editar.php:33
+#: public/admin/fatos_historicos/fatos_historicos.php:16
+msgid "Fato"
+msgstr ""
+
+#: public/admin/fatos_historicos/cadastrar/cadastrar.php:50
+msgid "Fato cadastrado com sucesso"
+msgstr ""
+
+#: public/admin/fatos_historicos/editar/editar.php:28
+msgid "Utilize os campos abaixo para editar o fato histórico"
+msgstr ""
+
+#: public/admin/fatos_historicos/editar/editar.php:62
+msgid "Fato atualizado com sucesso"
+msgstr ""
+
+#: public/admin/fatos_historicos/fatos_historicos.php:7
+msgid "Fatos Historicos"
+msgstr ""
+
+#: public/admin/fatos_historicos/fatos_historicos.php:14
+msgid "Ano de início"
+msgstr ""
+
+#: public/admin/fatos_historicos/fatos_historicos.php:15
+msgid "Ano de fim"
+msgstr ""
+
+#: public/admin/fontes/cadastrar/cadastrar.php:10
+msgid "Cadastrar fonte"
+msgstr ""
+
+#: public/admin/fontes/cadastrar/cadastrar.php:16
+msgid "Preencha o campo abaixo para incluir uma fonte bibliográfica"
+msgstr ""
+
+#: public/admin/fontes/cadastrar/cadastrar.php:46
+msgid "Fonte cadastrada com sucesso"
+msgstr ""
+
+#: public/admin/fontes/editar/editar.php:22
+msgid "Editar fonte"
+msgstr ""
+
+#: public/admin/fontes/editar/editar.php:28
+msgid "Utilize o campo abaixo para editar a fonte bibliográfica"
+msgstr ""
+
+#: public/admin/fontes/editar/editar.php:58
+msgid "Fonte atualizada com sucesso"
+msgstr ""
+
+#: public/admin/generos/generos.php:7 public/documentos/documentos.php:196
+msgid "Gêneros"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:24
+msgid "Editar usuário"
+msgstr "Edit user data"
+
+#: public/admin/usuarios/editar/editar.php:29
+#: public/contas/cadastrar/cadastrar.php:23 public/contas/editar/editar.php:24
+msgid "Informações pessoais"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:34
+#: public/contas/cadastrar/cadastrar.php:28 public/contas/editar/editar.php:31
+msgid "Profissão"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:41
+#: public/contas/cadastrar/cadastrar.php:34 public/contas/editar/editar.php:35
+msgid "Dados de acesso"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:42
+#: public/admin/usuarios/usuarios.php:16
+#: public/contas/cadastrar/cadastrar.php:35
+msgid "Login"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:44
+#: public/contas/cadastrar/cadastrar.php:37
+msgid "Senha"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:45
+msgid "Digite a nova senha aqui"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:47
+#: public/admin/usuarios/usuarios.php:17
+msgid "Papel"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:94
+#: public/contas/editar/editar.php:145
+msgid "Usuário atualizado com sucesso"
+msgstr "User data updated successfully"
+
+#: public/admin/usuarios/editar/editar.php:148
+msgid "E-mail já cadastrado"
+msgstr ""
+
+#: public/admin/usuarios/editar/editar.php:167
+msgid "Login já cadastrado"
+msgstr ""
+
+#: public/admin/usuarios/usuarios.php:15
+msgid "E-mail"
+msgstr ""
+
+#: public/autores/autores.php:92
+msgid "Autor não encontrado"
+msgstr ""
+
+#: public/autores/autores.php:109
+msgid "Informações sobre o autor"
+msgstr ""
+
+#: public/autores/autores.php:227 public/busca/documento/resultados.php:90
+#: public/busca/simples/resultados.php:92
+#: public/navegacao/documento/resultados.php:86
+msgid "Apenas obras digitalizadas"
+msgstr ""
+
+#: public/autores/autores.php:235 public/busca/conteudo/resultados.php:69
+#: public/busca/documento/documento.php:43
+#: public/busca/documento/resultados.php:21
+#: public/busca/simples/resultados.php:40
+#: public/documentos/documentos_new.php:183
+#: public/navegacao/acervo/resultados.php:47
+#: public/navegacao/documento/resultados.php:42
+msgid "Gênero"
+msgstr ""
+
+#: public/autores/autores.php:248
+msgid "Visualizar obra"
+msgstr ""
+
+#: public/autores/autores.php:280
+msgid "Críticas sobre o Autor"
+msgstr ""
+
+#: public/autores/autores.php:307 public/documentos/documentos.php:564
+#: public/documentos/documentos_new.php:515
+msgid "Fatos históricos associados"
+msgstr ""
+
+#: public/autores/autores.php:338
+msgid "Insira seu comentário sobre este autor"
+msgstr ""
+
+#: public/autores/autores.php:342 public/busca/busca.php:9
+#: public/busca/conteudo/resultados.php:36 public/documentos/documentos.php:600
+#: public/documentos/documentos_new.php:551
+msgid "Conteúdo"
+msgstr ""
+
+#: public/autores/autores.php:344 public/documentos/documentos.php:602
+#: public/documentos/documentos_new.php:553
+msgid "Enviar"
+msgstr ""
+
+#: public/autores/autores.php:352 public/documentos/documentos.php:610
+#: public/documentos/documentos_new.php:561
+msgid "Faça login para poder comentar"
+msgstr ""
+
+#: public/autores/autores.php:402 public/documentos/documentos.php:660
+#: public/documentos/documentos_new.php:611
+msgid "Responder"
+msgstr ""
+
+#: public/busca/autor.php:47
+msgid "Local da Morte"
+msgstr ""
+
+#: public/busca/autor/autor.php:26 public/busca/autor/autor.php:194
+#: public/busca/autor/autor.php:205 public/busca/conteudo/conteudo.php:8
+#: public/busca/conteudo/conteudo.php:31 public/busca/conteudo/conteudo.php:49
+#: public/busca/simples/simples.php:10
+msgid "Exemplo: Machado de Assis"
+msgstr ""
+
+#: public/busca/autor/autor.php:28 public/busca/conteudo/conteudo.php:11
+#: public/busca/documento/documento.php:29 public/busca/simples/simples.php:13
+msgid "Qualquer palavra"
+msgstr ""
+
+#: public/busca/autor/autor.php:29 public/busca/conteudo/conteudo.php:13
+#: public/busca/documento/documento.php:30 public/busca/simples/simples.php:14
+msgid "Frase exata"
+msgstr ""
+
+#: public/busca/autor/autor.php:34
+msgid "Período de nascimento"
+msgstr ""
+
+#: public/busca/autor/autor.php:37 public/busca/autor/autor.php:97
+#: public/busca/documento/documento.php:79
+msgid "Século"
+msgstr ""
+
+#: public/busca/autor/autor.php:39 public/busca/autor/autor.php:99
+#: public/busca/documento/documento.php:81
+msgid "de"
+msgstr ""
+
+#: public/busca/autor/autor.php:51 public/busca/autor/autor.php:111
+#: public/busca/documento/documento.php:93
+msgid "até"
+msgstr ""
+
+#: public/busca/autor/autor.php:64
+msgid "Local de nascimento"
+msgstr ""
+
+#: public/busca/autor/autor.php:93
+msgid "Falecimento"
+msgstr ""
+
+#: public/busca/autor/autor.php:94
+msgid "Período da morte"
+msgstr ""
+
+#: public/busca/autor/autor.php:124
+msgid "Local do falecimento"
+msgstr ""
+
+#: public/busca/autor/autor.php:154
+msgid ""
+"Exemplo: Poeta, Romancista, Tradutor, Biógrafo, Trovador, Músico, Jornalista"
+msgstr ""
+
+#: public/busca/autor/autor.php:158 public/busca/documento/documento.php:70
+#: public/busca/documento/documento.php:127
+#: public/busca/documento/documento.php:310
+msgid "Todas"
+msgstr ""
+
+#: public/busca/autor/autor.php:171 public/busca/autor/autor.php:172
+#: public/busca/conteudo/conteudo.php:17
+#: public/busca/documento/documento.php:140 public/busca/simples/simples.php:17
+#: public/navegacao/acervo/acervo.php:24
+#: public/navegacao/acervo/resultados.php:34
+msgid "Pesquisar"
+msgstr "Search"
+
+#: public/busca/busca.php:6 public/busca/simples/resultados.php:18
+msgid "Simples"
+msgstr "Simple"
+
+#: public/busca/conteudo/conteudo.php:6
+msgid "Pesquisa por conteúdo"
+msgstr "Search by file content"
+
+#: public/busca/conteudo/conteudo.php:7
+msgid "Frase ou palavra presente no texto da obra"
+msgstr ""
+
+#: public/busca/conteudo/conteudo.php:9 public/busca/simples/simples.php:11
+msgid "Forma de busca"
+msgstr "Search Types"
+
+#: public/busca/conteudo/conteudo.php:12
+msgid "Todas as palavras"
+msgstr ""
+
+#: public/busca/conteudo/resultados.php:45
+#: public/busca/simples/resultados.php:25
+msgid "Termo de busca não especificado"
+msgstr ""
+
+#: public/busca/conteudo/resultados.php:46
+#: public/busca/conteudo/resultados.php:54
+#: public/busca/simples/resultados.php:26
+msgid "Voltar para o formulário de busca"
+msgstr ""
+
+#: public/busca/conteudo/resultados.php:70
+msgid "Relevância"
+msgstr ""
+
+#: public/busca/conteudo/resultados.php:112
+msgid "Detalhes sobre a mídia"
+msgstr ""
+
+#: public/busca/conteudo/resultados.php:180
+#: public/busca/documento/resultados.php:80
+#: public/navegacao/acervo/resultados.php:81
+#: public/navegacao/documento/resultados.php:76
+msgid "Procurar nos resultados"
+msgstr ""
+
+#: public/busca/documento/documento.php:25
+msgid "Informações gerais"
+msgstr "General information"
+
+#: public/busca/documento/documento.php:27
+#: public/busca/documento/documento.php:162
+#: public/busca/documento/documento.php:173
+msgid "Exemplo: Dom Casmurro"
+msgstr ""
+
+#: public/busca/documento/documento.php:32
+msgid "Separados por vírgula"
+msgstr ""
+
+#: public/busca/documento/documento.php:39
+#: public/busca/documento/documento.php:45
+#: public/busca/documento/documento.php:57
+#: public/navegacao/acervo/acervo.php:15
+#: public/navegacao/acervo/resultados.php:18
+msgid "Todos"
+msgstr ""
+
+#: public/busca/documento/documento.php:41
+msgid "Acervo pessoal"
+msgstr "Personal Collection"
+
+#: public/busca/documento/documento.php:55
+msgid "Tipo do documento"
+msgstr ""
+
+#: public/busca/documento/documento.php:75
+#: public/busca/documento/documento.php:76
+msgid "Período"
+msgstr ""
+
+#: public/busca/documento/documento.php:107
+msgid "Outros"
+msgstr ""
+
+#: public/busca/documento/documento.php:123
+msgid "Local da editora"
+msgstr ""
+
+#: public/busca/documento/documento.php:371
+msgid "Sugestão"
+msgstr ""
+
+#: public/busca/documento/resultados.php:18
+#: public/navegacao/acervo/resultados.php:44
+#: public/navegacao/documento/resultados.php:39
+msgid "Título da obra"
+msgstr ""
+
+#: public/busca/documento/resultados.php:26
+#: public/busca/simples/resultados.php:45
+#: public/recomendacao/recomendacao.php:16
+#: public/recomendacoes/recomendacoes.php:34
+msgid "Escore"
+msgstr ""
+
+#: public/busca/simples/simples.php:8
+msgid "Pesquisa simples"
+msgstr "Simple search"
+
+#: public/busca/simples/simples.php:9
+msgid "Informações gerais sobre títulos de obras e autores"
+msgstr "Terms in titles and writter´s name"
+
+#: public/contas/cadastrar/cadastrar.php:11
+msgid "Não é possível cadastro com usuário logado"
+msgstr ""
+
+#: public/contas/cadastrar/cadastrar.php:16
+msgid "Por que criar uma conta?"
+msgstr ""
+
+#: public/contas/cadastrar/cadastrar.php:17
+msgid ""
+"O uso da biblioteca digital não exige cadastramento. O cadastramento é "
+"apenas necessário para utilizar os serviços de personalização e anotação da "
+"biblioteca.\n"
+"    O serviço de personalização permite que o resultado de suas buscas na "
+"biblioteca leve em consideração o seu perfil de usuários (suas preferências "
+"em termos de\n"
+"    autores e gêneros literários). O sistema de anotação permite que você "
+"crie notas (pessoais ou públicas) nos textos disponibilizados."
+msgstr ""
+
+#: public/contas/cadastrar/cadastrar.php:26 public/contas/editar/editar.php:27
+msgid "Email"
+msgstr ""
+
+#: public/contas/cadastrar/cadastrar.php:39
+msgid "Repita a senha"
+msgstr ""
+
+#: public/contas/cadastrar/cadastrar.php:84
+msgid "Verifique seu email para completar o cadastro"
+msgstr ""
+
+#: public/contas/confirmar/confirmar.php:7
+msgid "Confirmação de cadastro"
+msgstr ""
+
+#: public/contas/confirmar/confirmar.php:16
+msgid "Seu cadastro foi concluído com sucesso"
+msgstr ""
+
+#: public/contas/confirmar/confirmar.php:27
+msgid "Não foi possível confirmar seu cadastro"
+msgstr ""
+
+#: public/contas/editar/editar.php:3 public/recomendacoes/recomendacoes.php:8
+msgid "Meu perfil"
+msgstr ""
+
+#: public/contas/editar/editar.php:8 public/recomendacoes/recomendacoes.php:13
+msgid "Precisa estar logado"
+msgstr ""
+
+#: public/contas/editar/editar.php:29
+msgid "URL"
+msgstr ""
+
+#: public/contas/editar/editar.php:38
+msgid ">Nova Senha"
+msgstr ""
+
+#: public/contas/editar/editar.php:40
+#: public/contas/redefinir/redefinir_2.php:18
+msgid "Repita a nova senha"
+msgstr ""
+
+#: public/contas/editar/editar.php:44
+msgid "Anotação"
+msgstr ""
+
+#: public/contas/editar/editar.php:48 public/contas/editar/editar.php:54
+msgid "Habilitar ferramenta de anotação"
+msgstr ""
+
+#: public/contas/editar/editar.php:49 public/contas/editar/editar.php:55
+msgid ""
+"Habilite esta opção para que obras literárias possam ser acessadas através "
+"do DLNotes"
+msgstr ""
+
+#: public/contas/editar/editar.php:61
+msgid "Adaptabilidade e Recomendação"
+msgstr ""
+
+#: public/contas/editar/editar.php:65 public/contas/editar/editar.php:71
+msgid "Visualizar resultados adaptados"
+msgstr ""
+
+#: public/contas/editar/editar.php:66 public/contas/editar/editar.php:72
+msgid ""
+"Habilite esta opção para que as buscas levem em consideração suas "
+"preferências por Autores e Gêneros"
+msgstr ""
+
+#: public/contas/editar/editar.php:78
+msgid "Histórico de Obras Acessadas"
+msgstr ""
+
+#: public/contas/editar/editar.php:85
+msgid "Genero"
+msgstr ""
+
+#: public/contas/editar/editar.php:105
+msgid ""
+"Remova da lista abaixo as obras que você acessou, mas que ela não foi de seu "
+"agrado"
+msgstr ""
+
+#: public/contas/editar/editar.php:201 public/contas/editar/editar.php:214
+msgid "Tem certeza que deseja excluir essa visualização de obra?"
+msgstr ""
+
+#: public/contas/editar/editar.php:220
+msgid "Tem certeza que deseja excluir esse gênero preferido?"
+msgstr ""
+
+#: public/contas/editar/editar.php:226
+msgid "Tem certeza que deseja excluir esse autor preferido?"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_1.php:7
+#: public/contas/redefinir/redefinir_2.php:7
+msgid "Redefinição de senha"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_1.php:7
+#: public/contas/redefinir/redefinir_1.php:13
+msgid "Passo 1 de 2"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_1.php:13
+msgid "Informe seu usuário ou e-mail"
+msgstr "Inform your login or e-mail"
+
+#: public/contas/redefinir/redefinir_1.php:14
+msgid "Usuário ou e-mail"
+msgstr "Login or e-mail"
+
+#: public/contas/redefinir/redefinir_1.php:38
+msgid "Verifique seu email"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_2.php:7
+#: public/contas/redefinir/redefinir_2.php:13
+msgid "Passo 2 de 2"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_2.php:13
+msgid "Informe o código e a nova senha"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_2.php:14
+msgid "Código recebido por email"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_2.php:16
+msgid "Nova senha"
+msgstr ""
+
+#: public/contas/redefinir/redefinir_2.php:42
+msgid "Senha alterada com sucesso"
+msgstr ""
+
+#: public/criticas/autor/criticas.php:17 public/criticas/autor/midias.php:15
+msgid "Críticas à autor"
+msgstr ""
+
+#: public/criticas/autor/criticas.php:34 public/criticas/autor/midias.php:32
+#: public/criticas/obra/criticas.php:32 public/criticas/obra/midias.php:32
+msgid "Crítica não encontrada"
+msgstr ""
+
+#: public/criticas/autor/criticas.php:42 public/criticas/autor/midias.php:41
+msgid "Autor criticado"
+msgstr ""
+
+#: public/criticas/autor/criticas.php:45 public/criticas/obra/criticas.php:43
+msgid "Informações sobre a crítica"
+msgstr ""
+
+#: public/criticas/autor/criticas.php:59 public/criticas/obra/criticas.php:57
+msgid "Crítica disponível para download"
+msgstr ""
+
+#: public/criticas/obra/criticas.php:15
+msgid "Críticas à obra"
+msgstr ""
+
+#: public/criticas/obra/criticas.php:40 public/criticas/obra/midias.php:41
+msgid "Obra criticada"
+msgstr ""
+
+#: public/documentos/documentos.php:101 public/documentos/documentos_new.php:97
+#: public/documentos/midias.php:41
+msgid "Documento não encontrado"
+msgstr ""
+
+#: public/documentos/documentos.php:124
+#: public/documentos/documentos_new.php:120
+msgid "Informações sobre o documento"
+msgstr ""
+
+#: public/documentos/documentos.php:135
+#: public/documentos/documentos_new.php:131
+msgid "Direitos"
+msgstr ""
+
+#: public/documentos/documentos.php:145
+#: public/documentos/documentos_new.php:141
+msgid "Estado"
+msgstr ""
+
+#: public/documentos/documentos.php:161
+#: public/documentos/documentos_new.php:157
+msgid "Século de produção"
+msgstr ""
+
+#: public/documentos/documentos.php:232 public/documentos/documentos.php:237
+#: public/documentos/documentos_new.php:205
+#: public/documentos/documentos_new.php:210
+msgid "Ano de publicação"
+msgstr ""
+
+#: public/documentos/documentos.php:242
+#: public/documentos/documentos_new.php:215
+msgid "Século de publicação"
+msgstr ""
+
+#: public/documentos/documentos.php:247
+#: public/documentos/documentos_new.php:220
+msgid "Século de encenação"
+msgstr ""
+
+#: public/documentos/documentos.php:291
+#: public/documentos/documentos_new.php:242
+msgid "Ano de encenação"
+msgstr ""
+
+#: public/documentos/documentos.php:296
+#: public/documentos/documentos_new.php:247
+msgid "Local de encenação"
+msgstr ""
+
+#: public/documentos/documentos.php:340
+#: public/documentos/documentos_new.php:291
+msgid "CDU"
+msgstr ""
+
+#: public/documentos/documentos.php:409
+#: public/documentos/documentos_new.php:360
+msgid "Congresso"
+msgstr ""
+
+#: public/documentos/documentos.php:442
+#: public/documentos/documentos_new.php:393
+msgid "Número do livro Ata"
+msgstr ""
+
+#: public/documentos/documentos.php:447
+#: public/documentos/documentos_new.php:398
+msgid "Evento"
+msgstr "Event"
+
+#: public/documentos/documentos.php:452
+#: public/documentos/documentos_new.php:403
+msgid "Promoção"
+msgstr ""
+
+#: public/documentos/documentos.php:523
+#: public/documentos/documentos_new.php:474
+msgid "Documento disponível para download"
+msgstr ""
+
+#: public/documentos/documentos.php:537
+#: public/documentos/documentos_new.php:488
+msgid "Críticas sobre a Obra"
+msgstr ""
+
+#: public/documentos/documentos.php:596
+#: public/documentos/documentos_new.php:547
+msgid "Insira seu comentário sobre este documento"
+msgstr ""
+
+#: public/documentos/midias.php:76
+msgid "Parte "
+msgstr "Part"
+
+#: public/documentos/midias.php:96
+msgid "Consulte as outras mídias disponíveis para essa obra"
+msgstr ""
+
+#: public/home.php:30
+msgid "Acervo de obras literárias"
+msgstr "Collection of literary works"
+
+#: public/home.php:32
+#, php-format
+msgid ""
+"Atualmente temos <strong> %s </strong> obras, <strong> %s </strong> autores "
+"cadastrados e <strong> %s </strong> arquivos digitalizados"
+msgstr ""
+"We currently have <strong> % s </strong> literature works, <strong> % s </"
+"strong> authors cataloged and <strong> %s </strong > digitalized files"
+
+#: public/home.php:40
+msgid "Mais acessados"
+msgstr "Most popular"
+
+#: public/home.php:56
+msgid "Últimas obras cadastradas"
+msgstr "Last documents cataloged"
+
+#: public/home.php:80
+msgid "Recomendamos para sua leitura:"
+msgstr ""
+
+#: public/home.php:96
+msgid "Veja mais"
+msgstr ""
+
+#: public/home.php:103
+msgid "Notícias"
+msgstr "News"
+
+#: public/home.php:107
+msgid ""
+"Portal\n"
+"\t\t\tCatarina"
+msgstr ""
+
+#: public/home.php:110
+msgid ""
+"Acesse o portal de\n"
+"\t\t\tobras literárias catarinenses"
+msgstr ""
+"Access our collection of \n"
+"\t\t\tworks of writers from Santa Catarina"
+
+#: public/navegacao/acervo/acervo.php:10
+#: public/navegacao/acervo/resultados.php:15
+msgid "Filtrar por"
+msgstr ""
+
+#: public/navegacao/acervo/acervo.php:10
+#: public/navegacao/acervo/resultados.php:15
+msgid "acervo"
+msgstr ""
+
+#: public/navegacao/acervo/resultados.php:11
+msgid "Selecione Acervo"
+msgstr ""
+
+#: public/navegacao/autor/autor.php:8
+msgid ""
+"Como pesquisar: Selecione uma letra para fazer a busca por autores cuja "
+"primeira letra do nome seja igual à selecionada."
+msgstr ""
+
+#: public/navegacao/documento/documento.php:13
+msgid ""
+"Como pesquisar: Selecione uma letra para fazer a busca por documentos cuja "
+"primeira letra do nome seja igual à selecionada."
+msgstr ""
+
+#: public/recomendacoes/recomendacoes.php:26
+msgid "Recomendações"
+msgstr ""
+
+#: public/recomendacoes/recomendacoes.php:30
+msgid "Titulo"
+msgstr ""

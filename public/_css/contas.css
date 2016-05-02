@@ -1,0 +1,17 @@
+.dataTables_wrapper {
+	width: 98%;
+	margin-bottom: -20px;
+}
+
+em {
+	display: block;
+}
+
+#forgot {
+	width: 380px;
+	margin: 50px auto;
+}
+
+#status {
+	margin-top: 10px;
+}

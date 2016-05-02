@@ -1,0 +1,49 @@
+body {
+	background-color:  : #F0F0F0;
+}
+.imagem-logo {
+	margin-left: 500px;
+	margin-top: 90px;
+}
+div {
+	display: inline-block;
+}
+form{
+	margin-left: 485px;
+}
+
+h3 {
+	color: #331900;
+	font-style: italic;
+	font-size: 29px;
+}
+h4{
+	margin-top: 20px;
+	color: #331900;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 14px;
+}
+.inputs {
+	margin-left: 30px;
+}
+input {
+	border-style: ridge;
+	border-width: 2px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+  .submit-button {
+ 	color : white;
+ 	background-color: #331900;
+ 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 	font-size: 15px;
+ 	margin-left: 240px;
+	 cursor: pointer;
+ }
+ .back-button {
+	 color : white;
+ 	background-color: #331900;
+ 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 	font-size: 15px;
+	 cursor: pointer;
+ }

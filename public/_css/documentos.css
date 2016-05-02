@@ -1,0 +1,70 @@
+#no_results {
+    margin: 70px auto 20px auto;
+    width: 500px;
+    text-align: center;
+}
+
+#no_results em {
+    font-size: 2em;
+    display: block;
+    padding: 20px 0;
+}
+
+#midias {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;	
+}
+
+#midias li {
+    padding: 3px 0;	
+}
+
+#midias a {
+    padding-left: 23px;
+    background: url(../_images/ico_unknown.png) no-repeat left;
+}
+
+#midias a[href $='.html'], #midias a.html,
+#midias a[href $='.htm'], #midias a.htm {
+    padding-left: 23px;
+    background: url(../_images/ico_html.png) no-repeat left;
+}
+
+#midias a[href $='.doc'], #midias a.doc {
+    padding-left: 23px;
+    background: url(../_images/ico_doc.png) no-repeat left;
+}
+
+#midias a[href $='.pdf'], #midias a.pdf {
+    padding-left: 23px;
+    background: url(../_images/ico_pdf.png) no-repeat left;
+}
+
+#midias a[href $='.txt'], #midias a.txt {
+    padding-left: 23px;
+    background: url(../_images/ico_txt.png) no-repeat left;
+}
+
+#midias a[href $='.ppt'], #midias a.ppt,
+#midias a[href $='.pps'], #midias a.pps {
+    padding-left: 23px;
+    background: url(../_images/ico_ppt.png) no-repeat left;
+}
+
+#midias a[href $='.zip'], #midias a.zip,
+#midias a[href $='.rar'], #midias a.rar,
+#midias a[href $='.gz'], #midias a.gz {
+    padding-left: 23px;
+    background: url(../_images/ico_zip.png) no-repeat left;
+}
+
+#midias a[href $='.xls'], #midias a.xls {
+    padding-left: 23px;
+    background: url(../_images/ico_xls.png) no-repeat left;
+}
+
+.visualizar_obra {
+	background: url(../_images/ico_download2.png) top left no-repeat;
+	padding: 0 0 3px 25px;
+}

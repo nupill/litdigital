@@ -1,0 +1,29 @@
+body {
+	background-color: #F0F0F0;
+}
+img {
+	margin-left: 420px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+div {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3 {
+	margin-left: 500px;
+	color: #331900;
+}
+p {
+	color: #331900;
+	margin-left: 100px;
+}
+li {
+	margin-left: 80px;
+	color: #331900;
+}
+a {
+	text-decoration: none;
+	color: #331900; 
+	margin-left: 1000px;
+	font-weight: bold;
+}

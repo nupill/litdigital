@@ -1,0 +1,62 @@
+body {
+	background-color:  : #F0F0F0;
+}
+.informacoes {
+	margin-left: 100px;
+}
+
+.imagem-logo {
+	margin-left: 400px;
+	margin-top: 30px;
+}
+
+div {
+	display: inline-block;
+}
+
+.formulario{
+	margin-left: 100px;
+}
+
+h3 {
+	margin-left: 400px;
+	color: #331900;
+	font-style: italic;
+	font-size: 29px;
+}
+h4{
+	margin-top: 22px;
+	color: #331900;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 14px;
+}
+
+p {
+	font-weight: bold;
+	font-size: 15px;
+	color : #331900;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.instrucoes, li {
+	font-weight: lighter;
+	font-size: 15px;
+	color : #331900;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.inputs {
+	margin-left: 30px;
+}
+input {
+	margin-top: 20px;
+	border-style: ridge;
+	border-width: 2px;
+	border-radius: 5px;
+}
+  .submit-button {
+ 	color : white;
+ 	background-color: #331900;
+ 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 	font-size: 15px;
+ 	margin-left: 580px;
+	cursor: pointer;
+ }

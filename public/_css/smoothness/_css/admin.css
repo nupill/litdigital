@@ -1,0 +1,349 @@
+/* Header
+***************************************************************************/
+
+#header {
+	height: 10px;
+	border-top: 4px solid #463b2b;
+	background: #2c2419;
+}
+
+/*
+#header #logo {
+	line-height: 1;
+	margin-top: 5px;
+	font-size: 0em;
+	background: transparent url(../imagens/logo_small.png) no-repeat;
+	text-indent: -9999px;
+	width: 231px;
+	height: 45px;
+	cursor: pointer;
+	float: left;
+}
+*/
+
+/* Central bar
+***************************************************************************/
+
+#bar {
+	width: 100%;
+	position: absolute;
+	top: 10px;
+	height: 5px;
+}
+
+/* Body
+***************************************************************************/
+
+#body {
+	padding-top: 15px;	
+}
+
+/* Navigation menu
+***************************************************************************/
+
+#navigation_menu {
+	width: 100%;
+	margin: 0 auto;
+	float: none;
+}
+
+#navigation_menu li {
+	position: relative;
+	white-space: nowrap;
+	padding: 5px 18px;
+}
+
+#navigation_menu li ul {
+    position: absolute;
+    left: 5px;
+    top: 25px;
+    display: none;
+    background-color: #2C2419;
+    z-index: 10;
+    min-width: 100px;
+    padding: 5px 15px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 90%;
+}
+
+#navigation_menu li ul li {
+    display: block;
+    clear: both;
+    text-align: left;
+    padding: 2px 0;
+}
+
+#navigation_menu li:hover > ul {
+	display: block
+}
+
+#navigation_menu li ul li a:hover {
+    text-decoration: none;
+}
+
+#navigation_menu li:hover > a {
+    color: #fff;
+}
+
+#navigation_menu li ul li a {
+	display: block;
+}
+
+#navigation_menu li.active ul li a {
+	font-weight: normal;
+	color: #E5E5E5;
+}
+
+#sub_navigation_menu {
+	float: right;
+	margin: 5px 70px 0 0;
+	font-size: 85%;
+	color: #777;
+}
+
+#sub_navigation_menu span {
+	margin-right: 7px;
+}
+
+#sub_navigation_menu a {
+    color: #444;
+    padding: 0 7px;
+    opacity: 0.8;
+}
+
+#sub_navigation_menu a:hover {
+	color: #000;
+	text-decoration: none;
+	opacity: 1;
+}
+
+#sub_navigation_menu a.logout {
+	background: url(../_images/logout.png) top left no-repeat;
+	padding-left: 15px;
+}
+
+#sub_navigation_menu a.settings {
+    background: url(../_images/settings.png) top left no-repeat;
+    padding-left: 15px;
+}
+
+#sub_navigation_menu a.home {
+    background: url(../_images/home.png) top left no-repeat;
+    padding-left: 15px;
+}
+
+/* Content
+***************************************************************************/
+
+#content {
+	margin-top: 30px;
+	clear: both;
+}
+
+#content form table { /* Hide the Data Table until its loaded */
+	display: none;
+}
+
+/* Other
+***************************************************************************/
+
+#status {
+	margin-top: 17px;
+}
+
+#new_record {
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+#edit_record {
+    font-weight: bold;
+}
+
+.critica_tipo {
+	margin: 50px auto;
+    background-color: #CCC;
+    padding: 30px;
+    width: 250px;
+    text-align: center;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    display: block;
+    font-size: 150%;
+    border: 3px solid #C0C0C0;
+}
+
+.critica_tipo:hover {
+    background-color: #DDD;
+    text-decoration: none;
+}
+
+#accessibility_form {
+	float: right;
+	font-size: 80%;
+	color: #888;
+}
+
+#accessibility_form a {
+	color: #444;
+}
+
+input.remove {
+    background: #e7e7e7 url(../_images/trash.gif) 6px 4px no-repeat;
+    padding-left: 28px;
+    border-bottom: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    border-top: 1px solid #f8f8f8;
+    border-left: 1px solid #f8f8f8;
+    color: #222;
+    margin-left: 5px;
+}
+
+input.remove:hover {
+	background: #e9e9e9 url(../_images/trash.gif) 6px 4px no-repeat;
+}
+
+#rem_autor,
+#rem_fonte,
+#rem_editora,
+#rem_genero {
+	float: left;
+}
+
+/* Dashboard
+***************************************************************************/
+
+.graph_loading {
+    padding: 15px;
+    background: url(../_images/loading_big_gray.gif) center center no-repeat;
+    margin: 100px auto 0 auto;
+    width: 95%;
+    text-align: center;
+    position: absolute;
+}
+
+.warning_status {
+    margin: 20px auto;
+    width: 250px;
+    font-size: 120%;
+    color: #333;
+    padding: 20px 0 20px 22px;
+    background: url(../_images/warning.png) center left no-repeat;
+}
+
+#date_range {
+    margin: -15px 0 5px 0;
+    text-align: right;
+    font-style: italic;
+    font-size: 90%;
+    color: #555;
+}
+
+#dashboard_left {
+    float: left;
+    width: 330px;
+}
+
+#site_usage {
+    width: 310px;
+    color: white;
+    background-color: #99221B;
+    border: 2px solid #570007;
+    padding: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+#site_usage h2 {
+    margin-bottom: 10px;
+}
+
+#site_usage p {
+    padding: 2px 0;
+    font-size: 90%;
+}
+
+#site_usage span {
+    float: right;
+    font-weight: bold;
+}
+
+#site_usage {
+    color: #333;
+    background-color: #e5e5e5;
+    border: 2px solid #ccc;
+    /*margin-top: 10px;*/   
+}
+
+#container_visits_pageviews, #container_top10_pageviews, #container_visitors_new_returning {
+    width: 620px;
+    background-color: #e5e5e5;
+    border: 2px solid #ccc;
+    padding: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    float: right;
+    position: relative;
+}
+
+#graph_visits_browser, #graph_trafficsource {
+    float: left;
+    width: 330px;
+    height: 330px;
+    background-color: #e5e5e5;
+    border: 2px solid #ccc;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+
+#graph_trafficsource {
+    margin-right: 10px;
+}
+
+#container_top10_pageviews, #container_visitors_new_returning {
+    margin-top: 10px;
+}
+
+#graph_visits_pageviews {
+    height: 230px;  
+}
+
+#top10_pageviews {
+    height: 290px;
+}
+
+#graph_new_returning {
+    height: 200px;
+}
+
+#top10_pageviews {
+    clear: both;
+    padding-top: 10px;
+    color: #333;
+}
+
+#top10_pageviews table {
+    margin-top: 5px;
+    width: 100%;
+}
+
+#top10_pageviews table tr {
+    background-color: #F4F4F4;
+    cursor: default;    
+}
+
+#details {
+    text-align: center;
+    font-style: italic;
+    color: #777;
+    margin-top: 20px;
+}

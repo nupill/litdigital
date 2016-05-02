@@ -1,0 +1,22 @@
+Por algum motivo bizarro o Zend nao esta criando um arquivo na indexacao chamado read.lock.file
+
+Caso va indexar novamente, favor criar a mao esse arquivo, mesmo que vazio, para poder indexar.
+
+Se indexa rodando o seguinte comando:
+
+php list.php > saida 2>&1 </dev/null &
+
+
+pode ver o resultado imprimido em tempo de execucao com o comando
+
+tail -f saida
+
+Todo resultado ira ser imprimido no arquivo saida.
+Apos a indexacao eh necessario mudar a permissao dos arquivos do indice localizado no diretorio indexes. Colocar permissao 777 para todos arquivos e mudar o dono para o usuario apache (no caso dessa maquina acho que eh o literatura.literatura)
+
+chmod 777
+chown literatura.literatura
+
+fazer para todos os arquivos.
+Boa sorte =)
+

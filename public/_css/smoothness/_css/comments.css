@@ -1,0 +1,212 @@
+#status, #reply_status {
+    padding-left: 10px;
+}
+
+#comment_form, #reply_form {
+    margin: 5px 0 15px 0;
+}
+
+textarea#comment, textarea#reply {
+    width: 980px;
+    height: 60px;
+}
+
+#title {
+    width: 980px;
+}
+
+.comment {
+    margin: 30px 0;
+}
+
+.comment_reply {
+    margin: 15px 0 0 30px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    background-color: #ddd;
+    border: 1px solid #bbb;
+}
+
+.comment_header, .comment_reply_header {
+    padding: 0 4px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.comment_header {
+    background-color: #5F5341;
+    border: 1px solid #2C2419;
+    color: white;
+    height: 28px;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: relative;
+}
+
+.comment_reply_header {
+    background: #d0d0d0 url(../_images/ico_comment.png) 8px 8px no-repeat;
+    padding-left: 30px;
+    border: none;
+    border-bottom: 1px solid #bbb;
+    position: relative;
+}
+
+.comment_header h4 {
+    float: left;
+    width: 850px;
+    font-size: 110%;
+}
+
+.comment_reply_header div {
+    float: right;
+    width: 200px;
+    text-align: right;
+}
+
+.comment_reply_header .user {
+    padding: 8px 0;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.comment_report {
+    border: 1px solid #999;
+    background: #eee;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f0f0f0), to(#ddd));
+    background: -moz-linear-gradient(top, #f0f0f0, #ddd);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#ddd');
+    color: #555;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.reply_content {
+    padding: 0 5px;
+}
+
+.score {
+    font-weight: bold;
+    padding: 3px;
+    color: #555555;
+    display: inline-block;
+    /*
+    border-radius: 20px;
+    border: 2px solid #bbb;
+    */
+    margin: 5px 5px 4px 0;
+}
+
+span.positive {
+    color: #008500;
+}
+
+span.negative {
+    color: #d00000;
+}
+
+button.reply {
+    border: 1px solid #2C2419;
+    background: #eee;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f0f0f0), to(#ddd));
+    background: -moz-linear-gradient(top, #f0f0f0, #ddd);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#ddd');
+    color: #555;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+
+button.reply:hover { 
+    background: #eee;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e0e0e0));
+    background: -moz-linear-gradient(top, #fff, #e0e0e0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#e0e0e0');
+    color: #222;
+}
+
+button.vote_up, button.vote_down, button.comment_flag {
+    text-indent: -9999px;
+    width: 25px;
+    height: 25px;
+    min-width: 25px;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    margin: 0;
+}
+
+.vote_up {
+    background: transparent url(../_images/ico_positive.png) top left no-repeat;
+}
+
+.vote_up:hover, .vote_up.active {
+    background: transparent url(../_images/ico_positive_selected.png) top left no-repeat;
+}
+
+.vote_down {
+    background: transparent url(../_images/ico_negative.png) top left no-repeat;
+}
+
+.vote_down:hover, .vote_down.active {
+    background: transparent url(../_images/ico_negative_selected.png) top left no-repeat;
+}
+
+button.comment_flag {
+    background: transparent url(../_images/ico_flag.png) top left no-repeat;
+    margin-left: 5px;
+}
+
+.comment_flag:hover {
+    background: transparent url(../_images/ico_flag_selected.png) top left no-repeat;
+}
+
+.comment em, .comment_reply em {
+    font-size: 90%;
+}
+
+
+/* Flag */
+
+.dialog_flag {
+    font-size: 12px;
+    min-width: 355px;
+}
+
+.dialog_flag .ui-tooltip-content {
+    padding: 10px;
+}
+
+.dialog_flag .ui-tooltip-title {
+	margin: 5px 0;
+}
+
+#reason {
+	width: 320px;
+	max-width: 320px;
+	min-width: 320px;
+	height: 100px;
+	max-height: 150px;
+}
+ 
+
+.dialog_flag input {
+	margin-top: 5px;
+}
+
+#flag_status {
+	margin-left: 10px;
+}

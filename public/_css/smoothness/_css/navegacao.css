@@ -1,0 +1,33 @@
+.howto {
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.naveg_div {
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+.naveg_div a {
+	background-color: #EAEAE0;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	color: #5E5E5A;
+	margin: 3px;
+	padding:10px;
+    font-size: 14px;
+}
+.naveg_div a:active, .naveg_div .active {	
+    background-color: #463b2b;
+    color: white;
+	font-weight: bold;
+}
+.naveg_div a:hover {	
+	background-color: #F0F0F0;
+	text-decoration: none;	
+}
+
+

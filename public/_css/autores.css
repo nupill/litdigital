@@ -1,0 +1,11 @@
+#no_results {
+	margin: 70px auto 20px auto;
+	width: 500px;
+	text-align: center;
+}
+
+#no_results em {
+	font-size: 2em;
+	display: block;
+	padding: 20px 0;
+}

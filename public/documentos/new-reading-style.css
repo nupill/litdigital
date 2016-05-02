@@ -1,0 +1,27 @@
+body{
+    font-family: "Georgia";
+    background-color: gray;
+    font-size: 12pt;
+}
+#text{
+    max-width: 50em;
+    background-color: white;
+    padding: 5em;
+    border: solid 2px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: justify;
+    padding: 0;
+    margin: 0;
+}
+p.align-center{
+    text-align: center;
+}
+p.align-right{
+    text-align: right;
+}
+p.margin-after{
+    padding-bottom: 1em;
+}
